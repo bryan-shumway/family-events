@@ -145,6 +145,63 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cranberry Summer Nights
+DTSTART:20260709T170000
+DTEND:20260709T220000
+UID:fcfcdd3bc569a4ac@shumway-family-events
+DESCRIPTION:Annual Cranberry Township community festival. Live music\, foo
+ d trucks\, carnival rides\, fireworks. Family-friendly summer tradition.\n
+ \n⏰ PRO TIP: Fireworks on Saturday night. Arrive early for parking — C
+ ommunity Park fills up fast.\n👨‍👩‍👧‍👦 Cousin Friendly (a
+ ges 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranberrytownshi
+ p.org
+LOCATION:Community Park\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Cranberry Summer Nights
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cranberry Summer Nights
+DTSTART:20260710T170000
+DTEND:20260710T220000
+UID:4ed8a42e014d1366@shumway-family-events
+DESCRIPTION:Annual Cranberry Township community festival. Live music\, foo
+ d trucks\, carnival rides\, fireworks. Family-friendly summer tradition.\n
+ \n⏰ PRO TIP: Fireworks on Saturday night. Arrive early for parking — C
+ ommunity Park fills up fast.\n👨‍👩‍👧‍👦 Cousin Friendly (a
+ ges 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranberrytownshi
+ p.org
+LOCATION:Community Park\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Cranberry Summer Nights
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cranberry Summer Nights
+DTSTART:20260711T170000
+DTEND:20260711T220000
+UID:7d99ef0b2a77f03c@shumway-family-events
+DESCRIPTION:Annual Cranberry Township community festival. Live music\, foo
+ d trucks\, carnival rides\, fireworks. Family-friendly summer tradition.\n
+ \n⏰ PRO TIP: Fireworks on Saturday night. Arrive early for parking — C
+ ommunity Park fills up fast.\n👨‍👩‍👧‍👦 Cousin Friendly (a
+ ges 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranberrytownshi
+ p.org
+LOCATION:Community Park\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Cranberry Summer Nights
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260801T090000
 DTEND:20260801T120000
