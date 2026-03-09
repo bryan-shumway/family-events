@@ -73,6 +73,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cranberry Hippity Hop Egg Hunt
+DTSTART:20260328T180000
+DTEND:20260328T200000
+UID:0c3d72e9b0536fee@shumway-family-events
+DESCRIPTION:Free community egg hunt with games\, crafts\, and photo with M
+ r. Bunny. For ages 10 and under. Sensory-friendly egg hunt also available.
+  Bring a basket!\n\n⏰ PRO TIP: Arrive by 5:30 PM to get settled before t
+ he egg hunt begins. Bring your own basket.\n👨‍👩‍👧‍👦 Cous
+ in Friendly (ages 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cr
+ anberrytownship.org/3289/Special-Events
+LOCATION:Cranberry Township Municipal Center\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Cranberry Hippity Hop Egg Hunt
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
@@ -87,6 +106,25 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Home Depot Kids Workshop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CranFest — Cranberry Township Community Festival
+DTSTART:20260411T110000
+DTEND:20260411T150000
+UID:9e43bdfde34e3f06@shumway-family-events
+DESCRIPTION:Annual celebration of community and culture. Musical and dance
+  performances\, food vendors\, cultural booths\, family activities.\n\n⏰
+  PRO TIP: Free event — arrive by 11 AM when it opens to avoid crowds and
+  get the best food selections.\n👨‍👩‍👧‍👦 Cousin Friendly 
+ (ages 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranberrytowns
+ hip.org/3289/Special-Events
+LOCATION:Cranberry Township Municipal Center\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: CranFest — Cranberry Township Community Festival
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
