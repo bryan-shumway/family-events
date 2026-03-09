@@ -73,6 +73,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NatureFest
+DTSTART;VALUE=DATE:20260321
+UID:244f0255c1e57d2e@shumway-family-events
+DESCRIPTION:When: Saturday\, March 21\, 2026\, 10:00 a.m.–5:00 p.m. Wher
+ e: Carnegie Museum of Natural History Tickets: Included with Purchase of M
+ useum Admission Get Tickets → Explore the vibrant voices of the [&#8230\
+ ;]\n\n⏰ PRO TIP: Arrive at opening hour — parking and lines deteriorat
+ e quickly.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSourc
+ e: Carnegie Museum of Natural History\n🔗 https://carnegiemnh.org/event/
+ naturefest-2/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: NatureFest
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cranberry Hippity Hop Egg Hunt
 DTSTART:20260328T180000
 DTEND:20260328T200000
