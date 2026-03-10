@@ -110,6 +110,26 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jurassic Quest
+DTSTART;VALUE=DATE:20260403
+UID:a543935aeaf2f6be@shumway-family-events
+DESCRIPTION:North America's largest dinosaur experience. 80+ life-size ani
+ matronic dinosaurs\, fossil digs\, dino rides\, live shows\, baby dinosaur
+ s up close with trainers. New this year: Ice Age experience. Sensory Hour 
+ Saturday morning before general admission (reduced lighting/sound). Use co
+ de MKPA15 for 15% off tickets.\n\n⏰ PRO TIP: Sensory Hour Saturday morni
+ ng — calmer environment\, perfect for Kai. Book early\; sells out.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Macaroni Kid\
+ n🔗 https://www.jurassicquest.com/events/M8P95T
+LOCATION:Monroeville Convention Center\, Monroeville\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Jurassic Quest
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
