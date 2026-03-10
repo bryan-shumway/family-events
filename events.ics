@@ -112,6 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jurassic Quest
 DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260406
 UID:a543935aeaf2f6be@shumway-family-events
 DESCRIPTION:North America's largest dinosaur experience. 80+ life-size ani
  matronic dinosaurs\, fossil digs\, dino rides\, live shows\, baby dinosaur
