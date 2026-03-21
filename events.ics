@@ -110,6 +110,26 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hippity Hop Egg Hunt
+DTSTART:20260328T180000
+UID:3d6f6d1a81bd40b0@shumway-family-events
+DESCRIPTION:Hop through bun-tastic games and crafts\, get an adorable phot
+ o with Mr. Bunny\, and be sure to bring a basket for the egg hunt. All age
+ s are welcome\, but the event is designed for ages 10 and under. A sensory
+  friendly egg hunt is also available.\n\n⏰ PRO TIP: Arrive at opening ho
+ ur — parking and lines deteriorate quickly. Sensory-friendly option is i
+ deal for young children.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 
+ 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranberrytownship.or
+ g/3289/Special-Events
+LOCATION:Municipal Center
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Hippity Hop Egg Hunt
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jurassic Quest
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
@@ -131,6 +151,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Keystone Safari Egg Drop
+DTSTART:20260403T110000
+UID:0bfa6d50fea905bb@shumway-family-events
+DESCRIPTION:Helicopter egg drop at Keystone Safari. Sessions at 11am\, 1pm
+ \, and 3pm on both days. 188 going\, 5.5K interested on Facebook.\n\n⏰ P
+ RO TIP: Schedule for 10:00 AM opening — animals are most active and crow
+ ds are thin.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSou
+ rce: Keystone Safari\n🔗 https://www.keystonesafari.com/events
+LOCATION:Keystone Safari\, Grove City\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Keystone Safari Egg Drop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
@@ -145,6 +182,43 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Home Depot Kids Workshop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zelienople Community Park Easter Egg Hunt
+DTSTART:20260404T110000
+UID:fc1f77684ec71b75@shumway-family-events
+DESCRIPTION:Easter Egg Hunt at Zelienople Community Park. Age groups: Unde
+ r 2\, 3-4\, 5-7\, 8-12. Pictures with the Easter Bunny. Free event.\n\n⏰
+  PRO TIP: Age-group hunt — Kai is in the 3-4 group. Pictures with Easter
+  Bunny included.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\
+ nSource: Zelienople Community Park
+LOCATION:Zelienople Community Park\, Zelienople\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Zelienople Community Park Easter Egg Hunt
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Encompass Health Easter Egg Hunt
+DTSTART:20260404T093000
+DTEND:20260404T113000
+UID:2b2c22e13983a435@shumway-family-events
+DESCRIPTION:Easter Egg Hunt hosted by Encompass Health. Age-group time slo
+ ts: Ages 0-2 at 10:00am\, 2-4 at 10:15am\, 4-6 at 10:30am\, 6-8 at 10:45am
+ \, 8-12 at 11:00am. Bring your own basket. Children activities\, snacks\, 
+ prizes\, pictures with the Easter Bunny. RSVP: 412-741-9500.\n\n⏰ PRO TI
+ P: Age-group time slots — Kai (3-4) goes at 10:15am. RSVP required: 412-
+ 741-9500.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource
+ : Encompass Health
+LOCATION:351 Camp Meeting Road\, Sewickley\, PA 15143
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Encompass Health Easter Egg Hunt
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -168,6 +242,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cranfest
+DTSTART:20260411T110000
+UID:8b89def4009e5aaf@shumway-family-events
+DESCRIPTION:This celebration of community and culture features musical and
+  dance performances\, a variety of delicious cuisine\, and much more.\n\n
+ ⏰ PRO TIP: Arrive at opening hour — parking and lines deteriorate quic
+ kly.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Cra
+ nberry Township\n🔗 https://www.cranberrytownship.org/3289/Special-Event
+ s
+LOCATION:Municipal Center
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Cranfest
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260502T090000
 DTEND:20260502T120000
@@ -182,6 +274,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Home Depot Kids Workshop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princess & Superhero Character Meet-and-Greet
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+UID:590008c258857de3@shumway-family-events
+DESCRIPTION:Meet your favorite princesses and superheroes! Character meet-
+ and-greets\, photo opportunities\, and themed activities.\n\n⏰ PRO TIP: 
+ Arrive early to minimize wait times for character meet-and-greets.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Keystone Safa
+ ri\n🔗 https://www.keystonesafari.com/events
+LOCATION:Keystone Safari\, Grove City\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Princess & Superhero Character Meet-and-Greet
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -204,6 +314,62 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Baby Animals Week
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260615
+UID:26c4c4d1d045ec07@shumway-family-events
+DESCRIPTION:Meet the newest additions to our safari family. Special feedin
+ g opportunities and educational programs about our baby animals.\n\n⏰ PR
+ O TIP: Schedule for 10:00 AM opening — animals are most active and crowd
+ s are thin.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSour
+ ce: Keystone Safari\n🔗 https://www.keystonesafari.com/events
+LOCATION:Keystone Safari\, Grove City\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Baby Animals Week
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Train Your Dragon (2025)
+DTSTART:20260610T210000
+UID:ab976a8e5cad30d8@shumway-family-events
+DESCRIPTION:As an ancient threat endangers both Vikings and dragons alike 
+ on the isle of Berk\, the friendship between Hiccup\, an inventive Viking\
+ , and Toothless\, a Night Fury dragon\, becomes the key to both species fo
+ rging a new future together.\n\n⏰ PRO TIP: Bring blanket\, snacks\, and 
+ plan infant care during evening movie\; arrive early for good seating.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Cranberry
+  Township\n🔗 https://www.cranberrytownship.org/3406/Concerts-and-Movies
+ -in-the-Park
+LOCATION:Armstrong Great Lawn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: How to Train Your Dragon (2025)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giraffe Festival
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260622
+UID:ccc8b551cb0e4395@shumway-family-events
+DESCRIPTION:Celebrate our tallest residents with special feeding sessions\
+ , giraffe-themed activities\, and exclusive educational talks.\n\n⏰ PRO 
+ TIP: Schedule for 10:00 AM opening — animals are most active and crowds 
+ are thin.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource
+ : Keystone Safari\n🔗 https://www.keystonesafari.com/events
+LOCATION:Keystone Safari\, Grove City\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Giraffe Festival
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260704T090000
 DTEND:20260704T120000
@@ -218,6 +384,25 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Home Depot Kids Workshop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cranberry Summer Nights
+DTSTART;VALUE=DATE:20260709
+UID:d3c544fa535cb198@shumway-family-events
+DESCRIPTION:An evolution of the beloved Community Days\, blending summer e
+ legance with family-inclusive offerings. From kids enjoying carnival rides
+  and games to adults experiencing local flavors and live performances - th
+ ere is something for everyone!\n\n⏰ PRO TIP: Arrive early for parking an
+ d to catch carnival rides before toddler fatigue sets in.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Cranberry Township\n
+ 🔗 https://www.cranberrytownship.org/3289/Special-Events
+LOCATION:Community Park
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Cranberry Summer Nights
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -279,6 +464,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frozen
+DTSTART:20260722T210000
+UID:dcb124d139dbb388@shumway-family-events
+DESCRIPTION:Young princess Anna of Arendelle dreams about finding true lov
+ e at her sister Elsa's coronation. Fate takes her on a dangerous journey i
+ n an attempt to end the eternal winter that has fallen over the kingdom.\n
+ \n⏰ PRO TIP: Bring blanket\, snacks\, and plan infant care during evenin
+ g movie\; arrive early for good seating.\n👨‍👩‍👧‍👦 Cousin
+  Friendly (ages 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cran
+ berrytownship.org/3406/Concerts-and-Movies-in-the-Park
+LOCATION:Armstrong Great Lawn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Frozen
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260801T090000
 DTEND:20260801T120000
@@ -293,6 +497,43 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Home Depot Kids Workshop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lilo & Stitch (2025)
+DTSTART:20260805T210000
+UID:6361e961760a9e3f@shumway-family-events
+DESCRIPTION:The wildly funny and touching story of a lonely Hawaiian girl 
+ and the fugitive alien who helps to mend her broken family.\n\n⏰ PRO TIP
+ : Bring blanket\, snacks\, and plan infant care during evening movie\; arr
+ ive early for good seating.\n👨‍👩‍👧‍👦 Cousin Friendly (ag
+ es 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranberrytownship
+ .org/3406/Concerts-and-Movies-in-the-Park
+LOCATION:Armstrong Great Lawn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lilo & Stitch (2025)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zootopia 2
+DTSTART:20260812T210000
+UID:b28e52f2b7844ce3@shumway-family-events
+DESCRIPTION:After cracking the biggest case in Zootopia's history\, rookie
+  cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a
+  great mystery when Gary De'Snake arrives and turns the animal metropolis 
+ upside down.\n\n⏰ PRO TIP: Arrive early to secure good seating\; bring a
+  blanket and snacks for a 3-year-old.\n👨‍👩‍👧‍👦 Cousin Fr
+ iendly (ages 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranber
+ rytownship.org/3406/Concerts-and-Movies-in-the-Park
+LOCATION:Armstrong Great Lawn
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Zootopia 2
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -549,6 +790,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Trick-or-Treat
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261101
+UID:3a89664eda50a133@shumway-family-events
+DESCRIPTION:Family-friendly Halloween fun! Wear your costume\, collect tre
+ ats throughout the park\, and enjoy spooky decorations.\n\n⏰ PRO TIP: Ar
+ rive at opening hour for thinner crowds and best costume visibility.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Keystone Safa
+ ri\n🔗 https://www.keystonesafari.com/events
+LOCATION:Keystone Safari\, Grove City\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Halloween Trick-or-Treat
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261024T100000
 DTEND:20261024T170000
@@ -617,6 +876,23 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Home Depot Kids Workshop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Light Drive-Through
+DTSTART;VALUE=DATE:20261113
+UID:2343ca5895197933@shumway-family-events
+DESCRIPTION:Drive through thousands of twinkling holiday lights! A festive
+  tradition for the whole family to celebrate the season.\n\n⏰ PRO TIP: G
+ o early in the evening before traffic builds\; plan for infant comfort in 
+ car.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Key
+ stone Safari\n🔗 https://www.keystonesafari.com/events
+LOCATION:Keystone Safari\, Grove City\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Holiday Light Drive-Through
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
