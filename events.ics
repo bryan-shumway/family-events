@@ -6,6 +6,23 @@ X-WR-CALDESC:Curated family events for the North Hills Pittsburgh area
 X-WR-CALNAME:Shumway Family Events
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Free Rita's Italian Ice Today - No Purchase Necessary
+DTSTART;VALUE=DATE:20260320
+UID:191dc6de770a4031@shumway-family-events
+DESCRIPTION:Free 6oz Italian ice for kids at Rita's with new PEEPS mystery
+  flavor available.\n\n⏰ PRO TIP: Free Italian ice is a fun treat—check
+  if local Rita's in North Hills is participating.\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/free-ritas-italian-ice/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Rita's Italian Ice Today - No Purchase Necessa
+ ry
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mister Rogers Free Day
 DTSTART:20260320T100000
 DTEND:20260320T170000
