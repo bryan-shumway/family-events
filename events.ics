@@ -185,6 +185,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free PetSmart Easter Event on 4/4 | First 50 People Score $20 Coup
+ on
+DTSTART;VALUE=DATE:20260404
+UID:9128bf79d6fd2e2a@shumway-family-events
+DESCRIPTION:Free Easter egg hunt event at PetSmart with festive photo oppo
+ rtunities\, treat samples\, and coloring pages for kids.\n\n⏰ PRO TIP: A
+ rrive early to secure first 50 spot for $20 coupon.\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/petsmart-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free PetSmart Easter Event on 4/4 | First 50 People
+  Score $20 Coupon
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
@@ -273,6 +291,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Cranfest
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Lowe's Kids Workshop on 4/18 | Register Now to Make a Terrari
+ um
+DTSTART;VALUE=DATE:20260418
+UID:c7abbd0d7d2f0e57@shumway-family-events
+DESCRIPTION:Free kids workshop at Lowe's where children can make a terrari
+ um project.\n\n⏰ PRO TIP: Call ahead to confirm Lowe's location near Cra
+ nberry has this workshop scheduled.\n👨‍👩‍👧‍👦 Cousin Frie
+ ndly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/lowe
+ s-kids-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Lowe's Kids Workshop on 4/18 | Register Now to
+  Make a Terrarium
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
