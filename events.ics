@@ -203,6 +203,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free PetSmart Easter Event
+DTSTART;VALUE=DATE:20260404
+UID:0dea08a80c5bc2c1@shumway-family-events
+DESCRIPTION:Free Easter egg hunt event at PetSmart with prize coupons\, ph
+ otos\, treats\, and coloring pages for families with pets.\n\n⏰ PRO TIP:
+  Arrive at opening time — egg hunt spots fill up fast and crowds build q
+ uickly.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: 
+ Hip2Save\n🔗 https://hip2save.com/deals/petsmart-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free PetSmart Easter Event
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
@@ -309,6 +325,22 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Free Lowe's Kids Workshop on 4/18 | Register Now to
   Make a Terrarium
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Lowe's Kids Workshop - Terrarium
+DTSTART;VALUE=DATE:20260418
+UID:ed446e5649bddb88@shumway-family-events
+DESCRIPTION:Free kids workshop at Lowe's where children can make a terrari
+ um.\n\n⏰ PRO TIP: Arrive early for workshop sessions — spots fill quic
+ kly and materials may run out.\n👨‍👩‍👧‍👦 Cousin Friendly 
+ (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/lowes-kid
+ s-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Lowe's Kids Workshop - Terrarium
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
