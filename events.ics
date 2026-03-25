@@ -394,6 +394,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Lowe's Kids Workshop on 4/18 to Make a Terrarium
+DTSTART;VALUE=DATE:20260418
+UID:e2b3b46893759dbe@shumway-family-events
+DESCRIPTION:Free kids workshop at Lowe's where children can build a terrar
+ ium\, requires registration.\n\n⏰ PRO TIP: Register in advance as free k
+ ids workshops fill quickly.\n👨‍👩‍👧‍👦 Cousin Friendly (ag
+ es 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/lowes-kids-w
+ orkshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Lowe's Kids Workshop on 4/18 to Make a Terrari
+ um
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260502T090000
 DTEND:20260502T120000
