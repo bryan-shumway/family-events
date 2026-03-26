@@ -108,6 +108,38 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinnamon Roll Bunnies Easter Breakfast
+DTSTART;VALUE=DATE:20260324
+UID:70cd856a82fcaac2@shumway-family-events
+DESCRIPTION:Recipe guide for making adorable cinnamon roll bunnies for Eas
+ ter breakfast using store-bought rolls.\n\n⏰ PRO TIP: Use pre-made cinna
+ mon rolls for minimal prep\; perfect Easter morning activity with Kai.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\
+ n🔗 https://hip2save.com/recipes/cinnamon-roll-bunnies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Cinnamon Roll Bunnies Easter Breakfast
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Build an Edible Easter Peep House With the Kids
+DTSTART;VALUE=DATE:20260325
+UID:93f46d3ffc0a3f5b@shumway-family-events
+DESCRIPTION:DIY activity guide for creating edible Easter Peep houses with
+  kids using candy\, graham crackers\, and icing.\n\n⏰ PRO TIP: Gather su
+ pplies ahead\; edible crafts work best with minimal supervision for a 3-ye
+ ar-old.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: 
+ Hip2Save\n🔗 https://hip2save.com/diy/easter-peep-house/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Build an Edible Easter Peep House With the Kids
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cranberry Hippity Hop Egg Hunt
 DTSTART:20260328T180000
 DTEND:20260328T200000
