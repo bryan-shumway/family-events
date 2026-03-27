@@ -230,6 +230,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BOGO 99¢ Dairy Queen Blizzards on 3/30
+DTSTART;VALUE=DATE:20260330
+UID:fa8d444ccacc6c2e@shumway-family-events
+DESCRIPTION:Buy one\, get one 99¢ Dairy Queen Blizzards promotion with ne
+ w summer flavors\, a fun family treat.\n\n⏰ PRO TIP: Perfect quick outin
+ g with 3-year-old\; limit to one Blizzard per child to avoid sugar overloa
+ d.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2S
+ ave\n🔗 https://hip2save.com/deals/dairy-queen-blizzard/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: BOGO 99¢ Dairy Queen Blizzards on 3/30
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jurassic Quest
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
