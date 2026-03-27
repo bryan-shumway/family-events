@@ -158,6 +158,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Easter Bunny Photos at Petco
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260405
+UID:d1521eb28c143ab0@shumway-family-events
+DESCRIPTION:Free pictures with the Easter Bunny at participating Petco loc
+ ations on select dates from 2-4pm local time.\n\n⏰ PRO TIP: Arrive early
+  — photo lines grow quickly at Petco events.\n👨‍👩‍👧‍👦 
+ Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com
+ /deals/petco-free-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Easter Bunny Photos at Petco
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cranberry Hippity Hop Egg Hunt
 DTSTART:20260328T180000
 DTEND:20260328T200000
@@ -193,6 +210,22 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Hippity Hop Egg Hunt
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOGO Dairy Queen Blizzards
+DTSTART;VALUE=DATE:20260330
+UID:01265e9533045992@shumway-family-events
+DESCRIPTION:Buy one get one 99 cent Blizzards at Dairy Queen with new summ
+ er flavors available.\n\n⏰ PRO TIP: Blizzard deal is family-friendly —
+  great treat for Kai.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-1
+ 2)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/dairy-queen-blizza
+ rd/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: BOGO Dairy Queen Blizzards
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
