@@ -140,6 +140,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Easter Bunny Photo at Petco
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260405
+UID:f28bfa65b2907477@shumway-family-events
+DESCRIPTION:Free pictures with the Easter Bunny at participating Petco loc
+ ations on select dates from 2-4pm local time.\n\n⏰ PRO TIP: Arrive at op
+ ening or mid-morning to avoid Easter crowds\; Petco locations in Cranberry
+ /North Hills area available.\n👨‍👩‍👧‍👦 Cousin Friendly (a
+ ges 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/petco-free-
+ events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Easter Bunny Photo at Petco
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cranberry Hippity Hop Egg Hunt
 DTSTART:20260328T180000
 DTEND:20260328T200000
