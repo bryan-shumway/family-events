@@ -175,6 +175,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Easter Must-Haves Store Event with Giveaways
+DTSTART;VALUE=DATE:20260328
+UID:c1795e4ac9cc8c39@shumway-family-events
+DESCRIPTION:In-store event at Target from 12-4 PM featuring Easter baskets
+ \, decor\, and giveaways while supplies last.\n\n⏰ PRO TIP: Arrive befor
+ e noon to avoid peak crowds and ensure giveaway availability.\n👨‍👩
+ ‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https
+ ://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Easter Must-Haves Store Event with Giveaways
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cranberry Hippity Hop Egg Hunt
 DTSTART:20260328T180000
 DTEND:20260328T200000
@@ -242,6 +258,22 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: BOGO 99¢ Dairy Queen Blizzards on 3/30
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOGO 99¢ Dairy Queen Blizzards
+DTSTART;VALUE=DATE:20260330
+UID:44d8e4209cb40d55@shumway-family-events
+DESCRIPTION:Buy one get one for 99¢ Blizzards at Dairy Queen on 3/30\, fe
+ aturing new summer flavors kids enjoy.\n\n⏰ PRO TIP: Visit early afterno
+ on to beat crowds and ensure flavor availability.\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/dairy-queen-blizzard/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: BOGO 99¢ Dairy Queen Blizzards
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
