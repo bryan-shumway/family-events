@@ -191,6 +191,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Take Your Pets to Petco This Weekend for a Free Easter Bunny Photo
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260405
+UID:42c2198e17dda222@shumway-family-events
+DESCRIPTION:Free Easter Bunny photos at Petco on select dates from 2-4pm l
+ ocal time at participating locations.\n\n⏰ PRO TIP: Arrive early or mid-
+ afternoon to avoid peak pet-traffic times\; Kai may enjoy seeing other pet
+ s.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2S
+ ave\n🔗 https://hip2save.com/deals/petco-free-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Take Your Pets to Petco This Weekend for a Free Eas
+ ter Bunny Photo
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cranberry Hippity Hop Egg Hunt
 DTSTART:20260328T180000
 DTEND:20260328T200000
