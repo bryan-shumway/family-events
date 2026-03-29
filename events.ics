@@ -596,6 +596,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pizza Hut's Book It! Summer Reading Program Returns in June
+DTSTART;VALUE=DATE:20260601
+UID:a297acfe8a0995e8@shumway-family-events
+DESCRIPTION:Summer reading program where kids can earn free pizza by compl
+ eting reading goals.\n\n⏰ PRO TIP: Great way to encourage Kai's early re
+ ading habits\; check participating local Pizza Hut locations.\n👨‍👩
+ ‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https
+ ://hip2save.com/tips/pizza-hut-book-it/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pizza Hut's Book It! Summer Reading Program Returns
+  in June
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260606T090000
 DTEND:20260606T120000
