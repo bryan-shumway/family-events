@@ -296,6 +296,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lab Mice Storytime
+DTSTART:20260330T100000
+UID:816838c46622e7c0@shumway-family-events
+DESCRIPTION:A STEAM-based hands-on storytime for children 3 1/2 to 6 years
+  of age. Each week we will read a story\, talk about what happened then do
+  a hands-on STEAM activity related to the book.\n\n⏰ PRO TIP: Kai fits t
+ he 3½-6 age range\; perfect for STEAM learning and storytime combo.\n\nSo
+ urce: Northland Public Library\n🔗 https://northlandpl.librarycalendar.c
+ om/event/lab-mice-storytime-8910
+LOCATION:Room 148-1&2 at Northland Public Library
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lab Mice Storytime
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jurassic Quest
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
@@ -313,6 +331,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Jurassic Quest
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eggstravaganza
+DTSTART:20260403T103000
+UID:471e7021c14b9493@shumway-family-events
+DESCRIPTION:Spring celebration with immersive habitats\, themed scavenger 
+ hunt\, story time\, and crafts. Included with General Admission.\n\n⏰ PR
+ O TIP: Arrive at opening hour — parking and lines deteriorate quickly.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: National 
+ Aviary\n🔗 https://www.aviary.org/sitewrench-calendar/events/?swwpc_cale
+ ndar_id=103017&swwpc_event_id=5669401&swwpc_event_date=2026-03-28
+LOCATION:National Aviary\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Eggstravaganza
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -384,6 +420,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Family Nature Walk
+DTSTART;VALUE=DATE:20260404
+UID:3fdae068e75a8f73@shumway-family-events
+DESCRIPTION:When: Saturday\, April 4\, 2026\, 2:00 p.m.–3:00 p.m. Where:
+  Powdermill Nature Reserve\, 1795 Route 381\, Rector\, PA 15677 Tickets: F
+ ree Join us as we hit the trails for a guided [&#8230\;]\n\n⏰ PRO TIP: A
+ rrive at opening hour — parking and lines deteriorate quickly.\n👨‍
+ 👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Carnegie Museum 
+ of Natural History\n🔗 https://carnegiemnh.org/event/family-nature-walk-
+ 7/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Family Nature Walk
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
@@ -398,6 +452,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Home Depot Kids Workshop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eggstravaganza
+DTSTART:20260404T103000
+UID:dae4f9c1778ea6e1@shumway-family-events
+DESCRIPTION:Spring celebration with immersive habitats\, themed scavenger 
+ hunt\, story time\, and crafts. Included with General Admission.\n\n⏰ PR
+ O TIP: Arrive at opening hour — parking and lines deteriorate quickly.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: National 
+ Aviary\n🔗 https://www.aviary.org/sitewrench-calendar/events/?swwpc_cale
+ ndar_id=103017&swwpc_event_id=5669401&swwpc_event_date=2026-03-28
+LOCATION:National Aviary\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Eggstravaganza
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -592,6 +664,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Princess & Superhero Character Meet-and-Greet
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Character Meet & Greet
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+UID:3ae0ce7132d91acd@shumway-family-events
+DESCRIPTION:Meet your favorite princesses and superheroes! Character meet-
+ and-greets\, photo opportunities\, and themed activities.\n\n⏰ PRO TIP: 
+ Princess characters appeal to toddlers\; arrive early for shorter wait tim
+ es.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Keys
+ tone Safari\n🔗 https://www.keystonesafari.com/events
+LOCATION:Keystone Safari\, Grove City\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Character Meet & Greet
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
