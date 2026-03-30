@@ -438,6 +438,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Store Event: Free Super Mario Galaxy Movie Stickers
+DTSTART;VALUE=DATE:20260404
+UID:a6bb6985f69d1aba@shumway-family-events
+DESCRIPTION:Free sticker giveaways at Target stores on April 4th from 12-4
+ pm while supplies last\, with photo ops available at select locations.\n\n
+ ⏰ PRO TIP: Arrive early in the 12-4pm window to secure stickers before s
+ upplies run out.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\
+ nSource: Hip2Save\n🔗 https://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Store Event: Free Super Mario Galaxy Movie S
+ tickers
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
@@ -699,6 +716,22 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Pizza Hut's Book It! Summer Reading Program Returns
   in June
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pizza Hut Book It! Summer Reading Program
+DTSTART;VALUE=DATE:20260601
+UID:ec013c54fcf45514@shumway-family-events
+DESCRIPTION:Free pizza rewards program for children's summer reading\, lau
+ nching in June with an app-based tracking system.\n\n⏰ PRO TIP: Enroll e
+ arly in June to maximize summer reading rewards and track progress with th
+ e app.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: H
+ ip2Save\n🔗 https://hip2save.com/tips/pizza-hut-book-it/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pizza Hut Book It! Summer Reading Program
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
