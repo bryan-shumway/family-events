@@ -455,6 +455,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Store Event Super Mario Galaxy Movie Stickers
+DTSTART;VALUE=DATE:20260404
+UID:27673571ac8c8bc6@shumway-family-events
+DESCRIPTION:Free Super Mario Galaxy movie stickers giveaway at Target on A
+ pril 4th from 12-4pm while supplies last.\n\n⏰ PRO TIP: Arrive before no
+ on to secure stickers while supplies last.\n👨‍👩‍👧‍👦 Cous
+ in Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/dea
+ ls/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Store Event Super Mario Galaxy Movie Sticker
+ s
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
