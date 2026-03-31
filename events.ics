@@ -314,6 +314,39 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:National Burrito Day Deals on April 2nd
+DTSTART;VALUE=DATE:20260402
+UID:ecddd5ececca2803@shumway-family-events
+DESCRIPTION:Various restaurants offer BOGO burrito deals on National Burri
+ to Day (April 2nd)\, great for family dining.\n\n⏰ PRO TIP: Check partic
+ ipating locations near Cranberry before heading out.\n👨‍👩‍👧
+ ‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2
+ save.com/deals/national-burrito-day/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: National Burrito Day Deals on April 2nd
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buy 1 QDOBA Entrée & Drink\, Get 1 Entrée FREE on April 2nd
+DTSTART;VALUE=DATE:20260402
+UID:787068b6c6ce88ab@shumway-family-events
+DESCRIPTION:QDOBA Rewards members get a free entrée with purchase on Apri
+ l 2nd (National Burrito Day)\, perfect for families.\n\n⏰ PRO TIP: Arriv
+ e during off-peak lunch hours (after 1 PM) to avoid crowds with toddler.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\
+ n🔗 https://hip2save.com/deals/qdoba-coupons/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Buy 1 QDOBA Entrée & Drink\, Get 1 Entrée FREE on
+  April 2nd
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jurassic Quest
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
@@ -697,6 +730,23 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Free Lowe's Kids Workshop on 4/18 to Make a Terrari
  um
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOGO 99¢ Dairy Queen Blizzards
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+UID:10265490d2e75278@shumway-family-events
+DESCRIPTION:DQ Rewards members get BOGO 99¢ Blizzards through April 26th\
+ , a fun treat for kids.\n\n⏰ PRO TIP: Visit DQ in late morning (10:30 AM
+ ) when it's quieter\; fun treat reward for Kai.\n👨‍👩‍👧‍👦
+  Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.co
+ m/deals/dairy-queen-blizzard/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: BOGO 99¢ Dairy Queen Blizzards
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
