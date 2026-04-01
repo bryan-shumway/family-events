@@ -751,6 +751,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free LEGO Star Wars Event at Barnes & Noble on May 1st
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260503
+UID:c1f622f02ee01c3d@shumway-family-events
+DESCRIPTION:Free LEGO Star Wars build event at select Barnes & Noble store
+ s for ages 10 and up (all ages welcome).\n\n⏰ PRO TIP: Arrive early for 
+ LEGO builds\; popular with kids 10+. Kai may enjoy observing.\n👨‍👩
+ ‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https
+ ://hip2save.com/deals/barnes-and-noble-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Star Wars Event at Barnes & Noble on May 
+ 1st
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260502T090000
 DTEND:20260502T120000
