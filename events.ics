@@ -314,6 +314,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Buy 1\, Get 1 Free Littlest Pet Shop Surprise Plush Pets at Target
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260405
+UID:35d226283effc349@shumway-family-events
+DESCRIPTION:Easter toy promotion at Target offering buy-one-get-one-free o
+ n collectible plush pets through April 4th.\n\n⏰ PRO TIP: BOGO deal expi
+ res 4/4 — grab within days for Easter basket stuffers Kai will love.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\
+ n🔗 https://hip2save.com/deals/littlest-pet-shop-plush/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Buy 1\, Get 1 Free Littlest Pet Shop Surprise Plush
+  Pets at Target
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:National Burrito Day Deals on April 2nd
 DTSTART;VALUE=DATE:20260402
 UID:ecddd5ececca2803@shumway-family-events
