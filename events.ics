@@ -314,6 +314,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dozen Dyeable Easter Eggs for $2.96 on Walmart.com
+DTSTART;VALUE=DATE:20260331
+UID:18cfa59561079318@shumway-family-events
+DESCRIPTION:Way To Celebrate dyeable Easter eggs 12-count for Easter activ
+ ities with kids.\n\n⏰ PRO TIP: Dyeable Easter eggs are perfect for toddl
+ er-friendly egg decorating activity at home.\n👨‍👩‍👧‍👦 Co
+ usin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/d
+ eals/dyeable-easter-eggs/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Dozen Dyeable Easter Eggs for $2.96 on Walmart.com
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Buy 1\, Get 1 Free Littlest Pet Shop Surprise Plush Pets at Target
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260405
@@ -361,6 +377,40 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Buy 1 QDOBA Entrée & Drink\, Get 1 Entrée FREE on
   April 2nd
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Up to 70% Off Bowlero Bowling with Free Shoe Rental
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260408
+UID:f8aba6e8811872c3@shumway-family-events
+DESCRIPTION:Groupon deal offering up to 70% off bowling for 2-6 people wit
+ h free shoe rental and discounted arcade cards.\n\n⏰ PRO TIP: Bowling al
+ ley typically quieter on weekday mornings — consider going early to avoi
+ d crowds.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource
+ : Hip2Save\n🔗 https://hip2save.com/deals/bowlero-bowling/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Up to 70% Off Bowlero Bowling with Free Shoe Rental
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Up to 80% Off Great Wolf Lodge Stays with Free Waterpark Passes
+DTSTART;VALUE=DATE:20260402
+UID:04f83ce76286d9c7@shumway-family-events
+DESCRIPTION:Groupon deal offering significant discounts on Great Wolf Lodg
+ e rooms with included waterpark access.\n\n⏰ PRO TIP: Waterpark is busie
+ st midday — arrive at opening or plan late afternoon for shorter lines.\
+ n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save
+ \n🔗 https://hip2save.com/deals/great-wolf-lodge-groupon/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Up to 80% Off Great Wolf Lodge Stays with Free Wate
+ rpark Passes
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
