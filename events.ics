@@ -558,6 +558,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Home Depot Kids Workshop on April 4th
+DTSTART;VALUE=DATE:20260404
+UID:cfbf761137c5f1e7@shumway-family-events
+DESCRIPTION:Free weekend workshop for kids to build a farm planter at Home
+  Depot.\n\n⏰ PRO TIP: Arrive early — Home Depot kids workshops fill up
+  quickly on weekends.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-1
+ 2)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/home-depot-kids-wo
+ rkshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Home Depot Kids Workshop on April 4th
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
