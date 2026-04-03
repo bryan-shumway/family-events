@@ -348,6 +348,40 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Shipping on Any Disney Store Order
+DTSTART;VALUE=DATE:20260401
+UID:3646d399e97825c6@shumway-family-events
+DESCRIPTION:One-day free shipping on all Disney Store orders on April 1st 
+ with code FREESHIP\, including toys and home goods.\n\n⏰ PRO TIP: Order 
+ Frozen\, princess\, or toddler-friendly Disney items—free shipping makes
+  it a great deal.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n
+ \nSource: Hip2Save\n🔗 https://hip2save.com/deals/disney-store-free-ship
+ ping/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Shipping on Any Disney Store Order
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOGO Free Macy's Toys
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260403
+UID:d4a8c211cb344be0@shumway-family-events
+DESCRIPTION:Buy One Get One Free sale on toys including Melissa & Doug and
+  Hot Wheels through April 2nd on Macys.com.\n\n⏰ PRO TIP: Stock up on to
+ ys during BOGO sale—Melissa & Doug toys are excellent for Kai's developm
+ ental stage.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSou
+ rce: Hip2Save\n🔗 https://hip2save.com/deals/macys-toys/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: BOGO Free Macy's Toys
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:National Burrito Day Deals on April 2nd
 DTSTART;VALUE=DATE:20260402
 UID:ecddd5ececca2803@shumway-family-events
@@ -415,6 +449,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$50 Worth of Crayola Products Free After Staples Rewards
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260405
+UID:d0a9723d8137a198@shumway-family-events
+DESCRIPTION:Staples Rewards members earn 100% back in rewards on Crayola p
+ urchases up to $50 through April 4th.\n\n⏰ PRO TIP: Stock up on crayons 
+ and coloring books—perfect for Kai's age and rainy day activities.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n
+ 🔗 https://hip2save.com/deals/staples-rewards/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: $50 Worth of Crayola Products Free After Staples Re
+ wards
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jurassic Quest
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
@@ -432,6 +484,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Jurassic Quest
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Up to 70% Off Bowlero Bowling with Free Shoe Rental
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260408
+UID:d26f8695b01928d8@shumway-family-events
+DESCRIPTION:Groupon deal offering up to 70% off bowling for 2-6 people wit
+ h free shoe rental through April 7th.\n\n⏰ PRO TIP: Call ahead to confir
+ m Bowlero locations in Cranberry/North Hills area and ask about bumpers/li
+ ghtweight balls for a 3-year-old.\n👨‍👩‍👧‍👦 Cousin Friend
+ ly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/bowler
+ o-bowling/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Up to 70% Off Bowlero Bowling with Free Shoe Rental
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -697,6 +767,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Wendy's Fries & Frosty on April 7th
+DTSTART;VALUE=DATE:20260407
+UID:36e0307860b874cc@shumway-family-events
+DESCRIPTION:Free fries and Frosty deal available through Wendy's app on Ap
+ ril 7th.\n\n⏰ PRO TIP: Download Wendy's app before April 7th to claim th
+ e free Frosty—kids love it.\n👨‍👩‍👧‍👦 Cousin Friendly (
+ ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/wendys-spe
+ cials/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Wendy's Fries & Frosty on April 7th
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CranFest — Cranberry Township Community Festival
 DTSTART:20260411T110000
 DTEND:20260411T150000
@@ -814,6 +900,22 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Free Lowe's Kids Workshop on 4/18 to Make a Terrari
  um
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McDonald's New $3 Value Menu Launches April 21
+DTSTART;VALUE=DATE:20260421
+UID:7be8b4d1f17c37a7@shumway-family-events
+DESCRIPTION:New McDonald's McValue Menu with under $3 items including brea
+ kfast options available starting April 21.\n\n⏰ PRO TIP: Great budget-fr
+ iendly breakfast option for quick family outings starting April 21.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n
+ 🔗 https://hip2save.com/deals/mcdonalds-mcvalue-menu/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: McDonald's New $3 Value Menu Launches April 21
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
