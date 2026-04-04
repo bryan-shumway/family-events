@@ -710,6 +710,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Peeps Easter Basket Fillers 50% Off from Michaels
+DTSTART;VALUE=DATE:20260404
+UID:3179ef6fe1c247fa@shumway-family-events
+DESCRIPTION:Easter candy and toys like Peeps design kits and wind-up chick
+ s at 50% off\, perfect for filling Easter baskets for young children.\n\n
+ ⏰ PRO TIP: Easter basket fillers are ideal for Kai (age 3)\; grab today 
+ while 50% off.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nS
+ ource: Hip2Save\n🔗 https://hip2save.com/deals/peeps-easter-items/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Peeps Easter Basket Fillers 50% Off from Michaels
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
@@ -795,6 +811,21 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Free Wendy's Fries & Frosty on April 7th
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Wendy's Fries and Frosty on April 7th
+DTSTART;VALUE=DATE:20260407
+UID:01eb69485056c509@shumway-family-events
+DESCRIPTION:Free kids-friendly food items at Wendy's on a specific date.\n
+ \n⏰ PRO TIP: Free treat on April 7th—perfect quick outing with Kai and
+  Callie.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource:
+  Hip2Save\n🔗 https://hip2save.com/deals/wendys-specials/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Wendy's Fries and Frosty on April 7th
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
