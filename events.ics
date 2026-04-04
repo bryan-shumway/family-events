@@ -694,6 +694,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Up to 70% Off Bowlero Bowling with Free Shoe Rental
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260408
+UID:480623a81b80506f@shumway-family-events
+DESCRIPTION:Discounted bowling for groups with free shoe rental through Ap
+ ril 7th.\n\n⏰ PRO TIP: Arrive before lunch rush for quieter bowling lane
+ s with 3-year-old.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\
+ n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/bowlero-bowling/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Up to 70% Off Bowlero Bowling with Free Shoe Rental
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20260404T090000
 DTEND:20260404T120000
