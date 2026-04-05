@@ -799,6 +799,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Up to 70% Off Bowlero Bowling with Free Shoe Rental
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260408
+UID:7a8a1ad23a156a99@shumway-family-events
+DESCRIPTION:Groupon offers up to 70% off 2 hours of bowling with free shoe
+  rental for groups of 2\, 4\, or 6 at Bowlero locations with promo code BO
+ WL.\n\n⏰ PRO TIP: Call Bowlero ahead to confirm Cranberry/North Hills lo
+ cation has the deal and fits toddlers with bumpers and light balls.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n
+ 🔗 https://hip2save.com/deals/bowlero-bowling/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Up to 70% Off Bowlero Bowling with Free Shoe Rental
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Wendy's Fries & Frosty on April 7th
 DTSTART;VALUE=DATE:20260407
 UID:36e0307860b874cc@shumway-family-events
