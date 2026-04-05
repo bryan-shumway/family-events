@@ -830,6 +830,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Up to 70% Off Bowlero Bowling with Free Shoe Rental
+DTSTART;VALUE=DATE:20260407
+UID:21938c39312167e0@shumway-family-events
+DESCRIPTION:Discounted bowling outings for families with free shoe rental 
+ through Groupon.\n\n⏰ PRO TIP: Arrive mid-morning on a weekday for fewer
+  crowds\; bring extra grip socks for Kai's smaller feet.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/bowlero-bowling/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Up to 70% Off Bowlero Bowling with Free Shoe Rental
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CranFest — Cranberry Township Community Festival
 DTSTART:20260411T110000
 DTEND:20260411T150000
