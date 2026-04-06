@@ -864,6 +864,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Target Store Event: Mondo Llama Crafting Demo
+DTSTART;VALUE=DATE:20260411
+UID:4883ab5b15b6de87@shumway-family-events
+DESCRIPTION:Free in-store crafting demo and workshop at Target locations f
+ rom 12pm-4pm for family craft inspiration.\n\n⏰ PRO TIP: Arrive early in
+  the 12pm hour before crowds build\; great for Kai's creativity.\n👨‍
+ 👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 h
+ ttps://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Target Store Event: Mondo Llama Crafting Demo
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CranFest — Cranberry Township Community Festival
 DTSTART:20260411T110000
 DTEND:20260411T150000
