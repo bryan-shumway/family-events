@@ -947,6 +947,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Target Store Event on 4/11
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260413
+UID:0747763beef593ac@shumway-family-events
+DESCRIPTION:Target is hosting free in-store events including a Mondo Llama
+  crafting demo from 12-4pm and Sunnie Reads book club.\n\n⏰ PRO TIP: Arr
+ ive at opening (typically 8-9am) to avoid crowds\; crafting demo runs 12-4
+ pm.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2
+ Save\n🔗 https://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Target Store Event on 4/11
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CranFest — Cranberry Township Community Festival
 DTSTART:20260411T110000
 DTEND:20260411T150000
