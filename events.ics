@@ -1136,6 +1136,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NEW Dairy Queen Fruity Pebbles Shake & Donut Blizzard Drop
+DTSTART;VALUE=DATE:20260427
+UID:ca80eecbd6add88e@shumway-family-events
+DESCRIPTION:New Dairy Queen frozen treat flavors launching April 27th with
+  available coupons and BOGO offers.\n\n⏰ PRO TIP: Frozen treats are perf
+ ect for Kai — check if your local Cranberry DQ participates.\n👨‍
+ 👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 h
+ ttps://hip2save.com/deals/dairy-queen-coupons/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: NEW Dairy Queen Fruity Pebbles Shake & Donut Blizza
+ rd Drop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free LEGO Star Wars Event at Barnes & Noble on May 1st
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260503
