@@ -1019,6 +1019,21 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ben & Jerry's Free Cone Day
+DTSTART;VALUE=DATE:20260414
+UID:0b195e0d127aff8f@shumway-family-events
+DESCRIPTION:Free ice cream cone day at Ben & Jerry's locations.\n\n⏰ PRO
+  TIP: Arrive early on 4/14 — free cone day draws large crowds.\n👨‍
+ 👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 h
+ ttps://hip2save.com/deals/ben-and-jerry-ice-cream/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Ben & Jerry's Free Cone Day
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Lowe's Kids Workshop on 4/18 | Register Now to Make a Terrari
  um
 DTSTART;VALUE=DATE:20260418
@@ -1149,6 +1164,22 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: NEW Dairy Queen Fruity Pebbles Shake & Donut Blizza
  rd Drop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Dairy Queen Fruity Pebbles Shake & Donut Blizzard
+DTSTART;VALUE=DATE:20260427
+UID:2f3c2f2a6210bcb2@shumway-family-events
+DESCRIPTION:New Fruity Pebbles shake and donut blizzard available at Dairy
+  Queen.\n\n⏰ PRO TIP: Visit mid-morning before lunch rush for shorter li
+ nes.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip
+ 2Save\n🔗 https://hip2save.com/deals/dairy-queen-coupons/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: New Dairy Queen Fruity Pebbles Shake & Donut Blizza
+ rd
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
