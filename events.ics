@@ -1184,6 +1184,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dairy Queen New Fruity Pebbles Shake & Donut Blizzard
+DTSTART;VALUE=DATE:20260427
+UID:45348258a5d0d75d@shumway-family-events
+DESCRIPTION:New Fruity Pebbles Shake and Donut Blizzard launches at Dairy 
+ Queen.\n\n⏰ PRO TIP: Treat for after an outing\; colorful shake appeals 
+ to toddlers.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSou
+ rce: Hip2Save\n🔗 https://hip2save.com/deals/dairy-queen-coupons/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Dairy Queen New Fruity Pebbles Shake & Donut Blizza
+ rd
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free LEGO Star Wars Event at Barnes & Noble on May 1st
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260503
