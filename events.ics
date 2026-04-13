@@ -1034,6 +1034,21 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ben & Jerry's Free Cone Day Returns April 14th
+DTSTART;VALUE=DATE:20260414
+UID:18e23636fd5f4e30@shumway-family-events
+DESCRIPTION:Free ice cream cone giveaway event at Ben & Jerry's on April 1
+ 4th.\n\n⏰ PRO TIP: Arrive early morning (before 10 AM) to avoid lines at
+  Ben & Jerry's.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\n
+ Source: Hip2Save\n🔗 https://hip2save.com/deals/ben-and-jerry-ice-cream/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Ben & Jerry's Free Cone Day Returns April 14th
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Lowe's Kids Workshop on 4/18 | Register Now to Make a Terrari
  um
 DTSTART;VALUE=DATE:20260418
