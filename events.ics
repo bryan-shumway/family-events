@@ -2118,4 +2118,102 @@ DESCRIPTION:Coming up: Western PA Model Railroad Holiday Show
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Cubs at Pirates — PNC Park
+DTSTART:20260525T184000
+DTEND:20260525T214000
+UID:cubs-pit-20260525@shumway-family-events
+DESCRIPTION:Chicago Cubs at Pittsburgh Pirates\nPNC Park\, Pittsburgh\, PA\nGame 1 of 4-game series
+LOCATION:PNC Park\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: ⚾ Cubs at Pirates
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Cubs at Pirates — PNC Park
+DTSTART:20260526T184000
+DTEND:20260526T214000
+UID:cubs-pit-20260526@shumway-family-events
+DESCRIPTION:Chicago Cubs at Pittsburgh Pirates\nPNC Park\, Pittsburgh\, PA\nGame 2 of 4-game series
+LOCATION:PNC Park\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: ⚾ Cubs at Pirates
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Cubs at Pirates — PNC Park
+DTSTART:20260527T184000
+DTEND:20260527T214000
+UID:cubs-pit-20260527@shumway-family-events
+DESCRIPTION:Chicago Cubs at Pittsburgh Pirates\nPNC Park\, Pittsburgh\, PA\nGame 3 of 4-game series
+LOCATION:PNC Park\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: ⚾ Cubs at Pirates
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Cubs at Pirates — PNC Park
+DTSTART:20260528T184000
+DTEND:20260528T214000
+UID:cubs-pit-20260528@shumway-family-events
+DESCRIPTION:Chicago Cubs at Pittsburgh Pirates\nPNC Park\, Pittsburgh\, PA\nGame 4 of 4-game series
+LOCATION:PNC Park\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: ⚾ Cubs at Pirates
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Cubs at Pirates — PNC Park
+DTSTART:20260724T184000
+DTEND:20260724T214000
+UID:cubs-pit-20260724@shumway-family-events
+DESCRIPTION:Chicago Cubs at Pittsburgh Pirates\nPNC Park\, Pittsburgh\, PA\nGame 1 of 3-game series
+LOCATION:PNC Park\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: ⚾ Cubs at Pirates
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Cubs at Pirates — PNC Park
+DTSTART:20260725T184000
+DTEND:20260725T214000
+UID:cubs-pit-20260725@shumway-family-events
+DESCRIPTION:Chicago Cubs at Pittsburgh Pirates\nPNC Park\, Pittsburgh\, PA\nGame 2 of 3-game series
+LOCATION:PNC Park\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: ⚾ Cubs at Pirates
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚾ Cubs at Pirates — PNC Park
+DTSTART:20260726T133500
+DTEND:20260726T163500
+UID:cubs-pit-20260726@shumway-family-events
+DESCRIPTION:Chicago Cubs at Pittsburgh Pirates\nPNC Park\, Pittsburgh\, PA\nGame 3 of 3-game series
+LOCATION:PNC Park\, Pittsburgh\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: ⚾ Cubs at Pirates
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
 END:VCALENDAR
