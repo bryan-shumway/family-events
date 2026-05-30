@@ -2261,4 +2261,58 @@ SUMMARY:Jurassic Training: Kick-Off Party!
 LOCATION:Northern Tier Regional Library\, Richland Conference Room - Lower Level\, 4015 Dickey Road\, Gibsonia PA 15044
 DESCRIPTION:Summer Learning Program kickoff! Fossil making\, dinosaur activities\, STEM\, bouncy castle\, snacks. All ages. Registration required — closes Jun 6 at 11 AM. Register: https://northerntier.librarycalendar.com/event/jurassic-training-kick-party-15770
 END:VEVENT
+BEGIN:VEVENT
+UID:b40188f2-0786-44aa-919f-110fe41fa54a
+DTSTAMP:20260530T144611Z
+DTSTART;TZID=America/New_York:20260609T173000
+DTEND;TZID=America/New_York:20260609T183000
+SUMMARY:Natureology: Reptiles
+LOCATION:Program Room - Main Level\, Northern Tier Regional Library\, 4015 Dickey Road\, Gibsonia PA 15044
+DESCRIPTION:Reptiles program for preschool+. Turtles\, snakes\, lizards\, crocodiles. Presenter: Tony Palermo. Registration required by 5:30 PM Jun 9. https://northerntier.librarycalendar.com/event/natureology-dinosaurs-11667
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e7ebb7-35b4-4a9c-8dd1-16a7ef16c8ee
+DTSTAMP:20260530T144611Z
+DTSTART;TZID=America/New_York:20260612T110000
+DTEND;TZID=America/New_York:20260612T114500
+SUMMARY:Family Storytime @ Pine Center
+LOCATION:Northern Tier Regional Library - Pine Center
+DESCRIPTION:Sing\, move\, read books\, and practice rhymes. All ages. Registration required.
+END:VEVENT
+BEGIN:VEVENT
+UID:6afa9510-5fd5-4f56-83d8-895327046a92
+DTSTAMP:20260530T144611Z
+DTSTART;TZID=America/New_York:20260619T110000
+DTEND;TZID=America/New_York:20260619T114500
+SUMMARY:Family Storytime @ Pine Center
+LOCATION:Northern Tier Regional Library - Pine Center
+DESCRIPTION:Sing\, move\, read books\, and practice rhymes. All ages. Registration required.
+END:VEVENT
+BEGIN:VEVENT
+UID:afe21018-cccd-4674-b3f2-9eb0605f7e4c
+DTSTAMP:20260530T144611Z
+DTSTART;TZID=America/New_York:20260626T110000
+DTEND;TZID=America/New_York:20260626T114500
+SUMMARY:Family Storytime @ Pine Center
+LOCATION:Northern Tier Regional Library - Pine Center
+DESCRIPTION:Sing\, move\, read books\, and practice rhymes. All ages. Registration required.
+END:VEVENT
+BEGIN:VEVENT
+UID:55eb3df4-a61c-49b3-b829-0e7cdcf97021
+DTSTAMP:20260530T144611Z
+DTSTART;TZID=America/New_York:20260703T110000
+DTEND;TZID=America/New_York:20260703T114500
+SUMMARY:Family Storytime @ Pine Center
+LOCATION:Northern Tier Regional Library - Pine Center
+DESCRIPTION:Sing\, move\, read books\, and practice rhymes. All ages. Registration required.
+END:VEVENT
+BEGIN:VEVENT
+UID:3297c2de-6fc4-43a1-b2ea-7316706b2e28
+DTSTAMP:20260530T144611Z
+DTSTART;TZID=America/New_York:20260710T110000
+DTEND;TZID=America/New_York:20260710T114500
+SUMMARY:Family Storytime @ Pine Center
+LOCATION:Northern Tier Regional Library - Pine Center
+DESCRIPTION:Sing\, move\, read books\, and practice rhymes. All ages. Registration required.
+END:VEVENT
 END:VCALENDAR
