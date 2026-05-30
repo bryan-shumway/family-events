@@ -2252,4 +2252,13 @@ SUMMARY:Splash Pad Family Fun Night: Island Spectacular
 LOCATION:Pine Community Park Splash Pad
 DESCRIPTION:Meet Island Princess\, splash play\, music\, crafts\, goodie bag. Registration required.
 END:VEVENT
+BEGIN:VEVENT
+UID:d1ec9579-26e2-4012-82b6-6de9188e3289
+DTSTAMP:20260530T124816Z
+DTSTART;TZID=America/New_York:20260606T110000
+DTEND;TZID=America/New_York:20260606T130000
+SUMMARY:Jurassic Training: Kick-Off Party!
+LOCATION:Northern Tier Regional Library\, Richland Conference Room - Lower Level\, 4015 Dickey Road\, Gibsonia PA 15044
+DESCRIPTION:Summer Learning Program kickoff! Fossil making\, dinosaur activities\, STEM\, bouncy castle\, snacks. All ages. Registration required — closes Jun 6 at 11 AM. Register: https://northerntier.librarycalendar.com/event/jurassic-training-kick-party-15770
+END:VEVENT
 END:VCALENDAR
