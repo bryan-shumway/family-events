@@ -2315,4 +2315,40 @@ SUMMARY:Family Storytime @ Pine Center
 LOCATION:Northern Tier Regional Library - Pine Center
 DESCRIPTION:Sing\, move\, read books\, and practice rhymes. All ages. Registration required.
 END:VEVENT
+BEGIN:VEVENT
+UID:c945695f-037a-4df4-8da6-d12f09cb24c9
+DTSTAMP:20260531T123701Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260618
+SUMMARY:Scott, Rob & Greg of The Clarks - Concert in the Park
+LOCATION:Rotary Amphitheater at Community Park\, Cranberry Township
+DESCRIPTION:Free outdoor concert. https://www.cranberrytownship.org/3406/Concerts-and-Movies-in-the-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:f14b7f8c-8a54-44df-b30d-49f7983391d5
+DTSTAMP:20260531T123701Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260625
+SUMMARY:Ruff Creek - Concert in the Park
+LOCATION:Rotary Amphitheater at Community Park\, Cranberry Township
+DESCRIPTION:Free outdoor concert. https://www.cranberrytownship.org/3406/Concerts-and-Movies-in-the-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:a0643571-c6cf-4d98-ab75-ddd3ebf3a997
+DTSTAMP:20260531T123701Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260702
+SUMMARY:Butler County Symphony Orchestra - Concert in the Park
+LOCATION:Rotary Amphitheater at Community Park\, Cranberry Township
+DESCRIPTION:Free outdoor concert. https://www.cranberrytownship.org/3406/Concerts-and-Movies-in-the-Park
+END:VEVENT
+BEGIN:VEVENT
+UID:95a7873d-1306-4051-9d4b-a82b034cc5d3
+DTSTAMP:20260531T123701Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:Neon Bridges - Concert in the Park
+LOCATION:Rotary Amphitheater at Community Park\, Cranberry Township
+DESCRIPTION:Free outdoor concert. https://www.cranberrytownship.org/3406/Concerts-and-Movies-in-the-Park
+END:VEVENT
 END:VCALENDAR
