@@ -2351,4 +2351,25 @@ SUMMARY:Neon Bridges - Concert in the Park
 LOCATION:Rotary Amphitheater at Community Park\, Cranberry Township
 DESCRIPTION:Free outdoor concert. https://www.cranberrytownship.org/3406/Concerts-and-Movies-in-the-Park
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Food Truck Festival & Touch a Truck
+DTSTART:20260808T110000
+DTEND:20260808T150000
+UID:3044b3d9e7f24760@shumway-family-events
+DESCRIPTION:Free admission family event at Glade Run Lutheran Services. Fo
+ od trucks (food/beer/drinks)\, Touch a Truck for kids\, vendors\, live an
+ imals\, raffle & 50/50\, bake sale. Eat indoors (air conditioned) or outs
+ ide in tented areas. Rain or shine. Proceeds benefit mental health program
+ s at Glade Run.\n\n⏰ PRO TIP: Touch a Truck + live animals are perfec
+ t for Kai. Free admission\, rain or shine.\n\nSource: Glade Run Foundatio
+ n\n🔗 https://www.gladerun.org
+LOCATION:Glade Run Lutheran Services\, 30 Glade Run Drive\, Zelienople\, 
+ PA 16063
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Family Food Truck Festival & Touch a Truck
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
 END:VCALENDAR
