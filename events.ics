@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Shumway Family Events//EN
-X-APPLE-CALENDAR-COLOR:#4A90D9
 X-WR-CALDESC:Curated family events for the North Hills Pittsburgh area
 X-WR-CALNAME:Shumway Family Events
+X-APPLE-CALENDAR-COLOR:#4A90D9
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:Free Rita's Italian Ice Today - No Purchase Necessary
@@ -1630,6 +1630,26 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Seven Springs Autumnfest — Alpine Slide
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Target Store Events: Beauty Studio Coupon and Pokémon Event
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+UID:58cb71d5c17ba369@shumway-family-events
+DESCRIPTION:Target stores are hosting free weekend events: a $20-off-$50 b
+ eauty coupon for the first 100 Circle members on 9/26 (12-4 PM) and a Pok
+ émon event on 9/27.\n\n⏰ PRO TIP: Pokémon event is Sunday 9/27\, not S
+ aturday 9/26. Call the Cranberry Target to confirm they're taking part. Be
+ tter for the cousins than for Kai.\n👨‍👩‍👧‍👦 Cousin Frien
+ dly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/targe
+ t-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Store Events: Beauty Studio Coupon and Poké
+ mon Event
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
