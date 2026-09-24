@@ -1654,6 +1654,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Pokémon Store Event (+ $20 Beauty Coupon on 9/26)
+DTSTART;VALUE=DATE:20260927
+UID:3dd3deaaa955a59e@shumway-family-events
+DESCRIPTION:Most Target stores are holding a free Pokémon event on Sunday
+  9/27\, and on Saturday 9/26 from 12-4 PM the first 100 Circle members get
+  $20 off a $50 beauty purchase.\n\n⏰ PRO TIP: Free kids' event at most T
+ argets. Call the Cranberry store to confirm times\, and go early because f
+ reebies run out. Better for cousins than for Kai.\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Pokémon Store Event (+ $20 Beauty Coupon on
+  9/26)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seven Springs Autumnfest — Alpine Slide
 DTSTART:20260927T100000
 DTEND:20260927T150000
