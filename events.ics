@@ -1654,6 +1654,27 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Store Events: Beauty Studio Coupon (9/26) + Pokémon Event 
+ (9/27)
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+UID:8402bede201cda20@shumway-family-events
+DESCRIPTION:Most Target stores are holding a free in-store event this week
+ end: a $20-off-$50 beauty coupon for the first 100 Circle members on Satur
+ day from 12 to 4 PM\, then a Pokémon event on Sunday.\n\n⏰ PRO TIP: Ski
+ p Saturday's beauty coupon. Go Sunday 9/27 for the Pokémon event\, and ge
+ t to Cranberry Target at opening because freebies run out.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Store Events: Beauty Studio Coupon (9/26) + 
+ Pokémon Event (9/27)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Target Pokémon Store Event (+ $20 Beauty Coupon on 9/26)
 DTSTART;VALUE=DATE:20260927
 UID:3dd3deaaa955a59e@shumway-family-events
