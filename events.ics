@@ -1634,6 +1634,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BOGO 50% Off Halloween Candy at Target
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260927
+UID:b4fa00c21a265393@shumway-family-events
+DESCRIPTION:Target Circle offers buy one\, get one 50% off on select Hallo
+ ween candy\, including Reese's\, M&Ms\, Brach's and Nerds.\n\n⏰ PRO TIP:
+  Clip the Target Circle offer in the app before checkout\; stock up for tr
+ ick-or-treaters.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/targ
+ et-halloween-candy/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: BOGO 50% Off Halloween Candy at Target
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Target Store Events: Beauty Studio Coupon and Pokémon Event
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
