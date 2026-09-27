@@ -1711,6 +1711,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Pokémon Card Activity & Giveaways at Target
+DTSTART;VALUE=DATE:20260927
+UID:05865ee3422591ca@shumway-family-events
+DESCRIPTION:Participating Target stores host a free 30th-anniversary Poké
+ mon event from 12–4 PM with a draw-your-own card activity\, themed photo
+  ops\, giveaways and Switch 2 demos while supplies last.\n\n⏰ PRO TIP: G
+ o at the 12:00 start\; giveaways run out fast. Check that the Cranberry Ta
+ rget is taking part before you drive over.\n👨‍👩‍👧‍👦 Cous
+ in Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/dea
+ ls/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Pokémon Card Activity & Giveaways at Target
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seven Springs Autumnfest — Alpine Slide
 DTSTART:20260927T100000
 DTEND:20260927T150000
