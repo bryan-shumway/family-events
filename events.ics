@@ -1729,6 +1729,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Free Pokémon 30th Anniversary Event
+DTSTART;VALUE=DATE:20260927
+UID:da6a1b121fb00000@shumway-family-events
+DESCRIPTION:From 12–4 PM today\, participating Target stores host a free
+  draw-your-own Pokémon card activity\, themed photo ops\, giveaways and S
+ witch 2 demos while supplies last.\n\n⏰ PRO TIP: Arrive right at 12:00 P
+ M\, since giveaways only last while supplies do. Kai can draw a card while
+  the cousins try the Switch 2 demos.\n👨‍👩‍👧‍👦 Cousin Fri
+ endly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/tar
+ get-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Free Pokémon 30th Anniversary Event
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seven Springs Autumnfest — Alpine Slide
 DTSTART:20260927T100000
 DTEND:20260927T150000
