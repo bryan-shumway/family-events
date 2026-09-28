@@ -1782,6 +1782,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Diaper Picking Made Easy Store Event (Free Pampers Wet Bag 
+ with Purchase)
+DTSTART;VALUE=DATE:20261003
+UID:6a846aa953f29c8c@shumway-family-events
+DESCRIPTION:Participating Target stores are holding an in-store diaper fit
+ ting event from 12 to 4 PM\, with a free compact wet bag when you buy qual
+ ifying Pampers.\n\n⏰ PRO TIP: Check that the Cranberry or Wexford Target
+  is participating. Bring Callie so the fitting is accurate.\n\nSource: Hip
+ 2Save\n🔗 https://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Diaper Picking Made Easy Store Event (Free P
+ ampers Wet Bag with Purchase)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
