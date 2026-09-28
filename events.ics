@@ -1765,6 +1765,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Diaper Picking Made Easy Store Event
+DTSTART;VALUE=DATE:20261003
+UID:35d669815dc186b6@shumway-family-events
+DESCRIPTION:Participating Target stores will help you find the right diape
+ rs from 12–4 PM\, and you get a free Compact Wet Bag when you buy Pamper
+ s.\n\n⏰ PRO TIP: Call ahead to check that your local Target (Cranberry o
+ r Wexford) is taking part. Bring Callie's current diaper size so staff can
+  help with fit.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/targe
+ t-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Diaper Picking Made Easy Store Event
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
