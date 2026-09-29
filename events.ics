@@ -1765,6 +1765,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Krispy Kreme Coffee and BOGO $5 Original Glazed Coffee Doughn
+ uts
+DTSTART;VALUE=DATE:20260929
+UID:4e7e521218eedfa1@shumway-family-events
+DESCRIPTION:Krispy Kreme is offering free coffee and buy-one-get-one dough
+ nut dozens for $5 for National Coffee Day\, an easy family treat run.\n\n
+ ⏰ PRO TIP: Today only. Make sure a Krispy Kreme shop near you is taking 
+ part before you drive out.\n👨‍👩‍👧‍👦 Cousin Friendly (age
+ s 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/krispy-kreme-
+ coupon/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Krispy Kreme Coffee and BOGO $5 Original Glaze
+ d Coffee Doughnuts
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Target Diaper Picking Made Easy Store Event
 DTSTART;VALUE=DATE:20261003
 UID:35d669815dc186b6@shumway-family-events
@@ -1995,6 +2014,25 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Lowe's MrBeast Day: 2 Free MrBeast Swarms for MyLow
  e's Rewards Members
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lowe's MrBeast Day: 2 Free MrBeast Swarms for Rewards Members
+DTSTART;VALUE=DATE:20261024
+UID:ed0a64c921259e7c@shumway-family-events
+DESCRIPTION:Lowe's is hosting an in-store MrBeast Day where the first 100 
+ MyLowe's Rewards members at each store get two free MrBeast Swarms\, plus 
+ $5 off MrBeast DIY build kits that kids can build in-store.\n\n⏰ PRO TIP
+ : Only the first 100 MyLowe's Rewards members at each store get swarms. Si
+ gn up ahead and get there before the store opens. The build kits suit Kai 
+ with help.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSourc
+ e: Hip2Save\n🔗 https://hip2save.com/deals/lowes-mrbeast/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lowe's MrBeast Day: 2 Free MrBeast Swarms for Rewar
+ ds Members
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
