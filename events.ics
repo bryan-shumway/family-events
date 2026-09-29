@@ -1980,6 +1980,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lowe's MrBeast Day: 2 Free MrBeast Swarms for MyLowe's Rewards Mem
+ bers
+DTSTART;VALUE=DATE:20261024
+UID:74a6c802ab8044d7@shumway-family-events
+DESCRIPTION:At each store\, the first 100 MyLowe's Rewards members (free t
+ o join) get two free MrBeast Swarms\, plus $5 off MrBeast DIY build kits t
+ hat kids can build in-store.\n\n⏰ PRO TIP: Join MyLowe's Rewards ahead a
+ nd arrive before opening — freebies go to the first 100 members.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n
+ 🔗 https://hip2save.com/deals/lowes-mrbeast/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lowe's MrBeast Day: 2 Free MrBeast Swarms for MyLow
+ e's Rewards Members
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261024T100000
 DTEND:20261024T170000
