@@ -1784,6 +1784,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BOGO Free Baskin-Robbins Sundaes
+DTSTART;VALUE=DATE:20260930
+UID:b91ba668ee0a3586@shumway-family-events
+DESCRIPTION:Baskin-Robbins Rewards members (free to join) get a second 2-s
+ coop sundae free with the in-app coupon at participating locations\, today
+  only.\n\n⏰ PRO TIP: Today only. Join Rewards and load the in-app coupon
+  before you go.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\n
+ Source: Hip2Save\n🔗 https://hip2save.com/deals/baskin-robbins-coupons/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: BOGO Free Baskin-Robbins Sundaes
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Target Diaper Picking Made Easy Store Event
 DTSTART;VALUE=DATE:20261003
 UID:35d669815dc186b6@shumway-family-events
@@ -2033,6 +2049,23 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Lowe's MrBeast Day: 2 Free MrBeast Swarms for Rewar
  ds Members
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lowe's MrBeast Day: 2 Free MrBeast Swarms
+DTSTART;VALUE=DATE:20261024
+UID:ee0fd531b7aa4a16@shumway-family-events
+DESCRIPTION:The first 100 MyLowe's Rewards members at each store get two f
+ ree MrBeast Swarms\, plus $5 off MrBeast DIY build kits to build in store 
+ or take home.\n\n⏰ PRO TIP: Only the first 100 members get it. Arrive be
+ fore the store opens with the MyLowe's app ready. Kai will need hands-on h
+ elp with the kit.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n
+ \nSource: Hip2Save\n🔗 https://hip2save.com/deals/lowes-mrbeast/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lowe's MrBeast Day: 2 Free MrBeast Swarms
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
