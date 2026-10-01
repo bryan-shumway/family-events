@@ -1835,6 +1835,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Glow-in-the-Dark Trick-or-Treat Tote at Lowe's
+DTSTART;VALUE=DATE:20261003
+UID:b1099f87afcc8482@shumway-family-events
+DESCRIPTION:The first 150 MyLowe's Rewards members (free to join) at each 
+ participating store get a free glow-in-the-dark trick-or-treat tote starti
+ ng at 10 am.\n\n⏰ PRO TIP: Only the first 150 per store get one. Join My
+ Lowe's Rewards before you go and get to the Cranberry Lowe's before the 10
+  AM start.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSourc
+ e: Hip2Save\n🔗 https://hip2save.com/deals/lowes-freebies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Glow-in-the-Dark Trick-or-Treat Tote at Lowe's
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
