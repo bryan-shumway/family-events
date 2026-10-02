@@ -1852,6 +1852,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lowe's Free Glow-in-the-Dark Treat Bag
+DTSTART;VALUE=DATE:20261003
+UID:43dc22a480065795@shumway-family-events
+DESCRIPTION:First 150 MyLowe's Rewards members at participating stores get
+  a free glow-in-the-dark trick-or-treat tote bag at 10 AM\n\n⏰ PRO TIP: 
+ Only first 150 members get a bag\, so arrive 20-30 minutes before 10 AM wi
+ th the MyLowe's Rewards account ready.\n👨‍👩‍👧‍👦 Cousin F
+ riendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/l
+ owes-freebies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lowe's Free Glow-in-the-Dark Treat Bag
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
