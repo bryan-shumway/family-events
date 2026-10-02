@@ -1869,6 +1869,38 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Pampers Diaper Event with Free Wet Bag
+DTSTART;VALUE=DATE:20261003
+UID:6100a0194690f328@shumway-family-events
+DESCRIPTION:In-store event with free Compact Wet Bag when purchasing Pampe
+ rs 360 Cruisers\, plus interactive diaper selection help.\n\n⏰ PRO TIP: 
+ Event is tomorrow\; stop by a Target near Cranberry early while stock of t
+ he wet bags lasts.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/ta
+ rget-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Pampers Diaper Event with Free Wet Bag
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lowe's Free Glow-in-the-Dark Treat Tote Bag
+DTSTART;VALUE=DATE:20261003
+UID:3ef0e7b96165f335@shumway-family-events
+DESCRIPTION:First 150 MyLowe's Rewards members receive free glow-in-the-da
+ rk Halloween trick-or-treat tote at 10 AM.\n\n⏰ PRO TIP: Only the first 
+ 150 members get one\, so arrive before the 10 AM start and have the MyLowe
+ 's app ready.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSo
+ urce: Hip2Save\n🔗 https://hip2save.com/deals/lowes-freebies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lowe's Free Glow-in-the-Dark Treat Tote Bag
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
