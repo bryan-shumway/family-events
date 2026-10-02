@@ -1901,6 +1901,39 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Pampers diaper fitting event with free wet bag
+DTSTART;VALUE=DATE:20261003
+UID:1c35cad32ba614ac@shumway-family-events
+DESCRIPTION:Free in-store diaper help and fitting from Target\, plus a fre
+ e Compact Wet Bag with Pampers 360 Cruisers purchase.\n\n⏰ PRO TIP: Usef
+ ul for the infant\; check a nearby Target (Cranberry or McCandless) is par
+ ticipating.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/target-st
+ ore-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Pampers diaper fitting event with free wet b
+ ag
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free glow-in-the-dark treat bag at Lowe's
+DTSTART;VALUE=DATE:20261003
+UID:2b0c899e40f2e87f@shumway-family-events
+DESCRIPTION:Free glow-in-the-dark trick-or-treat tote bag for the first 15
+ 0 MyLowe's Rewards members at participating stores at 10 AM.\n\n⏰ PRO TI
+ P: Only first 150 members get a bag\, so arrive before the 10 AM start.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\
+ n🔗 https://hip2save.com/deals/lowes-freebies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free glow-in-the-dark treat bag at Lowe's
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
@@ -1969,6 +2002,23 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Idlewild Hallowboo
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free LEGO Halloween Build event at Barnes & Noble
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+UID:83ed66693692a956@shumway-family-events
+DESCRIPTION:Free in-store LEGO Halloween building event for kids at select
+  locations\; registration required by calling ahead.\n\n⏰ PRO TIP: Call 
+ ahead to register\; confirm the Cranberry or Wexford-area store is partici
+ pating.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: 
+ Hip2Save\n🔗 https://hip2save.com/deals/barnes-and-noble-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Halloween Build event at Barnes & Noble
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
