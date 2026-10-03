@@ -2000,6 +2000,39 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Halloween Treat Bag at Lowe's
+DTSTART;VALUE=DATE:20261003
+UID:30271bf96d8a334a@shumway-family-events
+DESCRIPTION:First 150 MyLowe's Rewards members at participating stores get
+  a free glow-in-the-dark trick-or-treat tote bag at 10 AM.\n\n⏰ PRO TIP:
+  Arrive before 10:00 AM\; only the first 150 rewards members get a bag.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\
+ n🔗 https://hip2save.com/deals/lowes-freebies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Halloween Treat Bag at Lowe's
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Target Diaper Event with Free Wet Bag
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:0c7b32722c8da23b@shumway-family-events
+DESCRIPTION:Get interactive help selecting diapers and receive a free comp
+ act wet bag with purchase of select Pampers diapers (12–4 PM local time\
+ , while supplies last).\n\n⏰ PRO TIP: Go right at noon for best selectio
+ n\; wet bags are while supplies last.\n\nSource: Hip2Save\n🔗 https://hi
+ p2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Diaper Event with Free Wet Bag
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
@@ -2068,6 +2101,23 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Idlewild Hallowboo
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Duolingo Plushies at Taco Bell
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+UID:7da476c8a72974fa@shumway-family-events
+DESCRIPTION:Taco Bell gives away free Duolingo plushies to kids on Nationa
+ l Taco Day.\n\n⏰ PRO TIP: Go early or off-peak\; plushies are likely lim
+ ited and lines grow at dinner time.\n👨‍👩‍👧‍👦 Cousin Frie
+ ndly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/taco
+ -bell-coupons/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Duolingo Plushies at Taco Bell
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
