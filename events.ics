@@ -1934,6 +1934,38 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Pampers event with free compact wet bag
+DTSTART;VALUE=DATE:20261003
+UID:0ad2ce827831be6d@shumway-family-events
+DESCRIPTION:Interactive in-store event to help find the right diapers for 
+ your baby with a free Pampers compact wet bag with purchase.\n\n⏰ PRO TI
+ P: Today only. Check the Target app to confirm your store is hosting it.\n
+ \nSource: Hip2Save\n🔗 https://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Pampers event with free compact wet bag
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lowe's free glow-in-the-dark trick-or-treat tote bag
+DTSTART;VALUE=DATE:20261003
+UID:bd4fe59b2ce3695b@shumway-family-events
+DESCRIPTION:Free glow-in-the-dark trick-or-treat tote bag for first 150 My
+ Lowe's Rewards members at participating stores.\n\n⏰ PRO TIP: Only the f
+ irst 150 members get one\, so go right at opening and sign in to MyLowe's 
+ Rewards first.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nS
+ ource: Hip2Save\n🔗 https://hip2save.com/deals/lowes-freebies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lowe's free glow-in-the-dark trick-or-treat tote ba
+ g
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
@@ -2019,6 +2051,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Free LEGO Halloween Build event at Barnes & Noble
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barnes & Noble free LEGO Halloween build event
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+UID:856b2d57a9982956@shumway-family-events
+DESCRIPTION:Free LEGO Halloween build event at select Barnes & Noble store
+ s where kids build and receive treats and giveaways.\n\n⏰ PRO TIP: Call 
+ your nearest Barnes & Noble (Cranberry/Pittsburgh) to confirm it's partici
+ pating and ask about build times.\n👨‍👩‍👧‍👦 Cousin Friend
+ ly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/barnes
+ -and-noble-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Barnes & Noble free LEGO Halloween build event
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
