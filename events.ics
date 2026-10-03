@@ -1966,6 +1966,40 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Halloween Treat Bag at Lowes
+DTSTART;VALUE=DATE:20261003
+UID:9fdda0d89dfd20e6@shumway-family-events
+DESCRIPTION:First 150 MyLowes Rewards members at each participating store 
+ get a free Glow in the Dark Trick or Treat Tote Bag at 10 AM (free to join
+ ).\n\n⏰ PRO TIP: Only the first 150 members per store get one\, so arriv
+ e before 10 AM and join MyLowes Rewards beforehand.\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/lowes-freebies/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Halloween Treat Bag at Lowes
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Target Pampers Event with Free Wet Bag
+DTSTART;VALUE=DATE:20261003
+UID:fb058f69a8ca5a81@shumway-family-events
+DESCRIPTION:Get interactive diaper selection help and free Compact Wet Bag
+  with purchase of Pampers 360 Cruisers\, BumBum\, or Pampers Amore diapers
+  from 12–4 PM local time (while supplies last).\n\n⏰ PRO TIP: Pampers 
+ sizing help is useful for Callie's next size up. The wet bag is while supp
+ lies last\, so go early in the 12-4 window.\n\nSource: Hip2Save\n🔗 http
+ s://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Pampers Event with Free Wet Bag
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261003T090000
 DTEND:20261003T120000
