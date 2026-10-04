@@ -2122,6 +2122,21 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Taco Bell FREE Duolingo Plushies giveaway
+DTSTART;VALUE=DATE:20261006
+UID:d14104bfbea05998@shumway-family-events
+DESCRIPTION:Free Duolingo collectible plushie giveaway at Taco Bell for ki
+ ds.\n\n⏰ PRO TIP: Giveaway items run out fast\, so go early in the day.\
+ n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save
+ \n🔗 https://hip2save.com/deals/taco-bell-coupons/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Taco Bell FREE Duolingo Plushies giveaway
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free LEGO Halloween Build event at Barnes & Noble
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
