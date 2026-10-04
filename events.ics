@@ -2069,6 +2069,20 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Old Navy Pajamas 50% Off
+DTSTART;VALUE=DATE:20261004
+UID:c72c84333769e00a@shumway-family-events
+DESCRIPTION:50% off pajamas for the family including Fall and Halloween st
+ yles.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/old-navy-pajama
+ s/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Old Navy Pajamas 50% Off
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seven Springs Autumnfest — Alpine Slide
 DTSTART:20261004T100000
 DTEND:20261004T150000
@@ -2133,6 +2147,20 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Taco Bell FREE Duolingo Plushies giveaway
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crocs Extra 30% Off + Free Shipping
+DTSTART;VALUE=DATE:20261007
+UID:2b8b25a4c914c21d@shumway-family-events
+DESCRIPTION:Up to 65% off Crocs for the whole family with promo code OCT30
+  and free shipping.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/c
+ rocs-on-sale/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Crocs Extra 30% Off + Free Shipping
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
