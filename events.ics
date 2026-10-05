@@ -2418,6 +2418,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pine Halloween Spooktacular
+DTSTART:20261025T120000
+DTEND:20261025T140000
+UID:bc2087bb8380b55f@shumway-family-events
+DESCRIPTION:Candy\, family activities\, live entertainment\, pumpkin decor
+ ating\, Halloween fun for all ages. Salem Sisters performance and Mad Scie
+ nce's Spooky Science Show with Count Eggbert. Rain location: indoors at Pi
+ ne Community Center.\n\nSource: Township of Pine Parks & Rec Fall/Winter 2
+ 026 guide
+LOCATION:Pine Community Park Amphitheater\, 100 Pine Park Dr\, Wexford\, P
+ A 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Halloween Spooktacular
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261031T100000
 DTEND:20261031T170000
@@ -2432,6 +2451,22 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Idlewild Hallowboo
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine Veteran's BBQ Luncheon
+DTSTART:20261106T120000
+DTEND:20261106T130000
+UID:9fcff9bf66bf90c5@shumway-family-events
+DESCRIPTION:Free catered BBQ luncheon honoring local veterans and first re
+ sponders. Guests of veterans $10 per person.\n\nSource: Township of Pine P
+ arks & Rec Fall/Winter 2026 guide
+LOCATION:Pine Community Center\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Veteran's BBQ Luncheon
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -2467,6 +2502,40 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Holiday Light Drive-Through
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine Holiday Dazzle (Sat) - train rides\, Santa\, crafts
+DTSTART:20261114T160000
+DTEND:20261114T190000
+UID:fe791fd56263da63@shumway-family-events
+DESCRIPTION:Kick off the holiday season: train rides\, holiday vendors\, S
+ anta\, kids' crafts. REGISTRATION REQUIRED.\n\n⏰ PRO TIP: Registration i
+ s required - sign up ahead.\n\nSource: Township of Pine Parks & Rec Fall/W
+ inter 2026 guide
+LOCATION:Pine Community Center\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Holiday Dazzle (Sat) - train rides\, Santa\, c
+ rafts
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine PYC Carols\, Crafts & Cocoa (Sun)
+DTSTART:20261115T160000
+DTEND:20261115T190000
+UID:6aee3891645c77a9@shumway-family-events
+DESCRIPTION:Carols\, crafts and cocoa with the Pittsburgh Youth Chorus. RE
+ GISTRATION REQUIRED.\n\n⏰ PRO TIP: Registration is required - sign up ah
+ ead.\n\nSource: Township of Pine Parks & Rec Fall/Winter 2026 guide
+LOCATION:Pine Community Center\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine PYC Carols\, Crafts & Cocoa (Sun)
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -2557,6 +2626,22 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Western PA Model Railroad Holiday Show
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine Santa's Cocoa Corner
+DTSTART:20261211T173000
+DTEND:20261211T200000
+UID:d9da01266574cec0@shumway-family-events
+DESCRIPTION:Hot cocoa\, sweet treats\, meet-and-greet with Santa\, holiday
+  photos. Two sessions: 5:30-6:30pm or 7:00-8:00pm.\n\nSource: Township of 
+ Pine Parks & Rec Fall/Winter 2026 guide
+LOCATION:Pine Community Center\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Santa's Cocoa Corner
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
@@ -2665,6 +2750,69 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Western PA Model Railroad Holiday Show
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine Fashion & Wine Soiree (adults only)
+DTSTART:20270206T173000
+DTEND:20270206T200000
+UID:5eaa4e6284ca77be@shumway-family-events
+DESCRIPTION:Adults-only: boutiques\, wine tastings\, cocktail making\, art
+  walk\, shopping.\n\nSource: Township of Pine Parks & Rec Fall/Winter 2026
+  guide
+LOCATION:Pine Community Center\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Fashion & Wine Soiree (adults only)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine Little Bunnies Egg Hunt (ages 1-5)
+DTSTART:20270325T110000
+DTEND:20270325T130000
+UID:f1291bc5f811a6c0@shumway-family-events
+DESCRIPTION:Egg hunt in the large gym for ages 1 to 5.\n\n⏰ PRO TIP: 3/2
+ 5/2027 is a Thursday per the flyer - confirm the date closer in.\n\nSource
+ : Township of Pine Parks & Rec Fall/Winter 2026 guide
+LOCATION:Pine Community Center\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Little Bunnies Egg Hunt (ages 1-5)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine Touch-A-Truck
+DTSTART:20270417T100000
+DTEND:20270417T130000
+UID:34fe7f2e5de13d0b@shumway-family-events
+DESCRIPTION:Climb aboard trucks\, leave a handprint on the Public Works pl
+ ow\, food. Sensory-friendly (no horns) hour 10-11am.\n\nSource: Township o
+ f Pine Parks & Rec Fall/Winter 2026 guide
+LOCATION:Pine Community Center\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Touch-A-Truck
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pine Earth Day at Pine Park
+DTSTART:20270424T080000
+DTEND:20270424T140000
+UID:7f956f47abe56e53@shumway-family-events
+DESCRIPTION:Hands-on activities for all ages\, guided bird walk\, tree pla
+ nting.\n\nSource: Township of Pine Parks & Rec Fall/Winter 2026 guide
+LOCATION:Pine Community Park\, 100 Pine Park Dr\, Wexford\, PA 15090
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Pine Earth Day at Pine Park
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
