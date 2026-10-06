@@ -2165,6 +2165,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kohl's Cares book and plush bundle sets with free shipping
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+UID:a25d496afac7fdf3@shumway-family-events
+DESCRIPTION:Popular $9.99 Kohl's Cares plush and book bundles ship free th
+ rough October 8th\, including new holiday styles.\n\n⏰ PRO TIP: Order by
+  Oct 8 for free shipping\; good gift picks for Kai.\n\nSource: Hip2Save\n
+ 🔗 https://hip2save.com/deals/kohls-cares-plush-books/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Kohl's Cares book and plush bundle sets with free s
+ hipping
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free LEGO Halloween Build event at Barnes & Noble
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
