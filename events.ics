@@ -2165,6 +2165,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kohl's Toys Sale - Up to 50% Off LEGO\, Squishmallows & More
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:31a2687d3ef181fc@shumway-family-events
+DESCRIPTION:Up to 50% off toys including LEGO and Squishmallows with free 
+ shipping through October 8th.\n👨‍👩‍👧‍👦 Cousin Friendly (
+ ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/kohls-toys
+ /
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Kohl's Toys Sale - Up to 50% Off LEGO\, Squishmallo
+ ws & More
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kohl's Cares book and plush bundle sets with free shipping
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
