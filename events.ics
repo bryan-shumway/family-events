@@ -2182,6 +2182,57 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nike Little Kids Shoes Up to 60% Off on Zappos + Free Shipping
+DTSTART;VALUE=DATE:20261007
+UID:99e73424c83db2a0@shumway-family-events
+DESCRIPTION:Nike kids shoes on sale up to 60% off with free shipping\, inc
+ luding Cosmic Runner and Court Borough styles from $25+ for toddlers.\n\n
+ ⏰ PRO TIP: Online deal on toddler sizes. Order today\, since the sale is
+  dated today.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/zappos-
+ nike/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Nike Little Kids Shoes Up to 60% Off on Zappos + Fr
+ ee Shipping
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Target: 40% Off Kids\, Toddler & Baby Christmas Pajamas
+DTSTART;VALUE=DATE:20261007
+UID:aecb034b9eb3820a@shumway-family-events
+DESCRIPTION:40% off select kids\, toddler\, and baby matching Christmas pa
+ jamas at Target.com with Circle offer\; expires today.\n\n⏰ PRO TIP: Off
+ er expires today. Apply the Target Circle offer at checkout.\n\nSource: Hi
+ p2Save\n🔗 https://hip2save.com/deals/target-christmas-pajamas/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target: 40% Off Kids\, Toddler & Baby Christmas Paj
+ amas
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kohl's Toys Sale: Up to 50% Off LEGO\, Squishmallows & More
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:5334069205558f3d@shumway-family-events
+DESCRIPTION:Up to 50% off toys including LEGO and Squishmallows with free 
+ shipping through Oct 8.\n\n⏰ PRO TIP: Sale ends Oct 8. Look for Duplo se
+ ts for Kai and Squishmallows or LEGO for older cousins.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/kohls-toys/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Kohl's Toys Sale: Up to 50% Off LEGO\, Squishmallow
+ s & More
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kohl's Cares book and plush bundle sets with free shipping
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
@@ -2230,6 +2281,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Barnes & Noble free LEGO Halloween build event
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Urban Air Unlimited Play Pass for National Adventure Day
+DTSTART;VALUE=DATE:20261009
+UID:4ce3d86d3d5c49dc@shumway-family-events
+DESCRIPTION:Free Unlimited Play Pass to Urban Air Adventure Park ($49 valu
+ e) when you register via the free KidHub app by Oct 9 at 11:59 PM local ti
+ me.\n\n⏰ PRO TIP: Register in the KidHub app by Oct 9\, 11:59 PM. Go on 
+ a weekday morning\, since toddler jump time is quieter.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/urban-air-adventure-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Urban Air Unlimited Play Pass for National Adv
+ enture Day
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
