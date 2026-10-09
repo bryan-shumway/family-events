@@ -2320,6 +2320,42 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free LEGO Halloween Build Events at Barnes & Noble
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+UID:8ed14776691e70fb@shumway-family-events
+DESCRIPTION:Select Barnes & Noble stores host free LEGO Halloween build ev
+ ents through October 11\; call your local store to reserve a spot\, since 
+ times vary and space is limited.\n\n⏰ PRO TIP: Call your nearest Barnes 
+ & Noble today to reserve a spot\, since space is limited and times vary. E
+ nds Oct 11.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSour
+ ce: Hip2Save\n🔗 https://hip2save.com/deals/barnes-and-noble-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Halloween Build Events at Barnes & Noble
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Urban Air Unlimited Play Pass (Worth $49)
+DTSTART;VALUE=DATE:20261009
+UID:6385c67e3da8c6d9@shumway-family-events
+DESCRIPTION:Urban Air is giving away free Unlimited Play Passes on Nationa
+ l Adventure Day\, but you must download the KidHub app and register by 11:
+ 59 PM local time on October 9.\n\n⏰ PRO TIP: Register in the KidHub app 
+ before 11:59 PM tonight (Oct 9) to claim the pass. Confirm the nearest Urb
+ an Air location and its toddler zone.\n👨‍👩‍👧‍👦 Cousin Fr
+ iendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/ur
+ ban-air-adventure-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Urban Air Unlimited Play Pass (Worth $49)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261010T100000
 DTEND:20261010T170000
