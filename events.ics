@@ -2356,6 +2356,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Urban Air Unlimited Play Pass (Worth $49) via KidHub App
+DTSTART;VALUE=DATE:20261009
+UID:09a27a29ded8282a@shumway-family-events
+DESCRIPTION:Free Unlimited Play Pass for Urban Air Adventure Park\, claime
+ d by registering in the KidHub app by 11:59 PM local time on October 9.\n\
+ n⏰ PRO TIP: Claim in the KidHub app before 11:59 PM tonight. Check the p
+ ass's redemption window and that the nearest park is close\, since locatio
+ n isn't listed.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\n
+ Source: Hip2Save\n🔗 https://hip2save.com/deals/urban-air-adventure-park
+ /
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Urban Air Unlimited Play Pass (Worth $49) via 
+ KidHub App
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261010T100000
 DTEND:20261010T170000
