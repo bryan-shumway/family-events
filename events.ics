@@ -2303,6 +2303,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Urban Air Unlimited Play Pass
+DTSTART;VALUE=DATE:20261009
+UID:a155d339ccd606ff@shumway-family-events
+DESCRIPTION:Register for the free KidHub app by 11:59 PM local time on Oct
+ ober 9 to receive a free Urban Air Unlimited Play Pass for National Advent
+ ure Day.\n\n⏰ PRO TIP: Register in the KidHub app before 11:59 PM tonigh
+ t\; pass is only for National Adventure Day.\n👨‍👩‍👧‍👦 Co
+ usin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/d
+ eals/urban-air-adventure-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Urban Air Unlimited Play Pass
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261010T100000
 DTEND:20261010T170000
