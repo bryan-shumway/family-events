@@ -2375,6 +2375,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free LEGO Halloween Build Event at Barnes & Noble
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+UID:33883b15384a2689@shumway-family-events
+DESCRIPTION:Select Barnes & Noble stores host a free LEGO Halloween build 
+ event through October 11\; call the local store to reserve a spot\, as tim
+ es vary by location.\n\n⏰ PRO TIP: Call your local Barnes & Noble (Cranb
+ erry/Pittsburgh area) today to reserve a spot\; event ends Oct 11.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n
+ 🔗 https://hip2save.com/deals/barnes-and-noble-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Halloween Build Event at Barnes & Noble
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261010T100000
 DTEND:20261010T170000
