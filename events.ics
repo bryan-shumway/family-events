@@ -2446,6 +2446,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free LEGO Halloween Build at Barnes & Noble
+DTSTART;VALUE=DATE:20261011
+UID:47e0cddca504bc74@shumway-family-events
+DESCRIPTION:Select Barnes & Noble stores host a free LEGO Halloween build 
+ on October 11 only\; call your local store to reserve a spot because times
+  vary by location.\n\n⏰ PRO TIP: Today only: call your local Barnes & No
+ ble now to reserve a spot\, since times vary by store.\n👨‍👩‍👧
+ ‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2
+ save.com/deals/barnes-and-noble-events/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Halloween Build at Barnes & Noble
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seven Springs Autumnfest — Alpine Slide
 DTSTART:20261011T100000
 DTEND:20261011T150000
