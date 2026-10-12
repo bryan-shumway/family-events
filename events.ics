@@ -2516,6 +2516,41 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Buy 2\, Get 1 Free Board Games\, Puzzles & Kids Books
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:1a9a4efcb5a08740@shumway-family-events
+DESCRIPTION:Target's buy 2\, get 1 free deal covers select board games\, p
+ uzzles\, and kids books in store and online\, through October 17.\n\n⏰ P
+ RO TIP: Pick up kids books for Kai and puzzles or games for cousins\; deal
+  ends 10/17.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSou
+ rce: Hip2Save\n🔗 https://hip2save.com/deals/target-board-games-sale/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Buy 2\, Get 1 Free Board Games\, Puzzles & K
+ ids Books
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Gigglescape Sticker Sheet at Target
+DTSTART;VALUE=DATE:20261017
+UID:b45a0bc71261bfc3@shumway-family-events
+DESCRIPTION:Participating Target stores from 12 to 4 pm local time offer a
+  free Gigglescape sticker sheet while supplies last\, with bouquet wrappin
+ g on 3 or more plush stems.\n\n⏰ PRO TIP: Free sticker sheet for Kai\, w
+ hile supplies last. Arrive right at noon\, and call your Target to confirm
+  it's participating.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/
+ target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Gigglescape Sticker Sheet at Target
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261017T100000
 DTEND:20261017T170000
