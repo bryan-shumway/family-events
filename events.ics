@@ -2499,6 +2499,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GetOut Membership Fall Sale: Year of Local Attractions
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261019
+UID:312d59f0a4b08c2b@shumway-family-events
+DESCRIPTION:A GetOut membership gives a year of unlimited admission to loc
+ al attractions for kids\, and the hip2save code HIP2SAVE takes an extra $5
+  off during the Fall Sale.\n👨‍👩‍👧‍👦 Cousin Friendly (age
+ s 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/get-out-pass/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: GetOut Membership Fall Sale: Year of Local Attracti
+ ons
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Sticker Sheet and Gigglescape Plush Event at Target
 DTSTART;VALUE=DATE:20261017
 UID:e4552cbb654efb6a@shumway-family-events
