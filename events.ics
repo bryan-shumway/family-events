@@ -2499,6 +2499,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Sticker Sheet and Gigglescape Plush Event at Target
+DTSTART;VALUE=DATE:20261017
+UID:e4552cbb654efb6a@shumway-family-events
+DESCRIPTION:From 12 to 4 pm local time\, participating Target stores offer
+  a free sticker sheet while supplies last\, plus a Gigglescape plush-stem 
+ event.\n\n⏰ PRO TIP: Free stickers are while supplies last\, so arrive r
+ ight at 12:00. Confirm the Cranberry Target is participating.\n\nSource: H
+ ip2Save\n🔗 https://hip2save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Sticker Sheet and Gigglescape Plush Event at T
+ arget
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261017T100000
 DTEND:20261017T170000
