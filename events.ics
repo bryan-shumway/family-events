@@ -2604,6 +2604,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GetOut Membership Fall Sale
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+UID:c2ecab72e66e4ca0@shumway-family-events
+DESCRIPTION:Through October 18\, an extra $5 off a GetOut membership (form
+ erly GetOutPass) with code HIP2SAVE\, which gives a year of admission to l
+ ocal attractions.\n\n⏰ PRO TIP: Check that the membership covers Pittsbu
+ rgh-area attractions before buying\; sale ends Oct 18.\n👨‍👩‍👧
+ ‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2
+ save.com/deals/get-out-pass/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: GetOut Membership Fall Sale
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261018T100000
 DTEND:20261018T170000
