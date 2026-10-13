@@ -2586,6 +2586,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GetOut Family Attraction Pass: $5 Off Fall Sale
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+UID:b3b78ad7a0692bc9@shumway-family-events
+DESCRIPTION:Save $5 on a GetOut membership\, which gives a year of unlimit
+ ed admission to local attractions\, using code HIP2SAVE through October 18
+ .\n\n⏰ PRO TIP: Code HIP2SAVE expires Oct 18\; check that the pass cover
+ s nearby Pittsburgh-area attractions before buying.\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/get-out-pass/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: GetOut Family Attraction Pass: $5 Off Fall Sale
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261018T100000
 DTEND:20261018T170000
