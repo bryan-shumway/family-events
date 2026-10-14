@@ -2538,6 +2538,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Gold Lightning McQueen Car at Macy's
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261018
+UID:896e50afee0a09f6@shumway-family-events
+DESCRIPTION:Free Gold Lightning McQueen cars at Macy's on October 16 (4-6p
+ m local time)\, plus a kids event on October 17 (12-2pm local time).\n\n
+ ⏰ PRO TIP: Free giveaways are limited. Arrive right at 4:00 PM and confi
+ rm your Macy's is participating.\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/macys-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Gold Lightning McQueen Car at Macy's
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Sticker Sheet and Gigglescape Plush Event at Target
 DTSTART;VALUE=DATE:20261017
 UID:e4552cbb654efb6a@shumway-family-events
@@ -2839,6 +2856,23 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Pine Veteran's BBQ Luncheon
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Home Depot Kids Workshop on November 7 (Build a Dump Truck)
+DTSTART;VALUE=DATE:20261107
+UID:5e9bae19331dde89@shumway-family-events
+DESCRIPTION:Free Home Depot Kids Workshop where kids build a dump truck\; 
+ registration is required.\n\n⏰ PRO TIP: Registration is required\, so si
+ gn up early. Spots fill fast.\n👨‍👩‍👧‍👦 Cousin Friendly (
+ ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/home-depot
+ -kids-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Home Depot Kids Workshop on November 7 (Build 
+ a Dump Truck)
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
