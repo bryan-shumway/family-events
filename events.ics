@@ -2877,6 +2877,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Home Depot Kids Workshop on 11/7: Make a Dump Truck
+DTSTART;VALUE=DATE:20261107
+UID:02856f4f5b36b0f9@shumway-family-events
+DESCRIPTION:Kids can register for a free Home Depot Kids Workshop on Novem
+ ber 7 to build a dump truck.\n\n⏰ PRO TIP: Register early\; Home Depot w
+ orkshop spots are limited and fill up.\n👨‍👩‍👧‍👦 Cousin F
+ riendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/h
+ ome-depot-kids-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Home Depot Kids Workshop on 11/7: Make a Dump 
+ Truck
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261107T090000
 DTEND:20261107T120000
