@@ -2826,6 +2826,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Krispy Kreme Doughnut on Oct 30 & 31 (Wear a Halloween Costum
+ e)
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+UID:cd12dca5acc47798@shumway-family-events
+DESCRIPTION:Wear your Halloween costume to Krispy Kreme on October 30 or 3
+ 1 to get a free doughnut.\n\n⏰ PRO TIP: Dress Kai in a dinosaur costume 
+ and go early before the morning rush\; confirm the Cranberry/Wexford shop 
+ is participating.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n
+ \nSource: Hip2Save\n🔗 https://hip2save.com/deals/krispy-kreme-coupon/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Krispy Kreme Doughnut on Oct 30 & 31 (Wear a H
+ alloween Costume)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261031T100000
 DTEND:20261031T170000
