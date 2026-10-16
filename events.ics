@@ -2607,6 +2607,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PetSmart Halloween Tricks for Treats Event
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261026
+UID:80821ab8c7a3a8ae@shumway-family-events
+DESCRIPTION:Store event from 10 AM to 4 PM with treats\, coloring pages\, 
+ and sticker sheets for families\, plus a costume contest for pets.\n\n⏰ 
+ PRO TIP: Go right at 10 AM opening for shorter lines and easy parking\; br
+ ing Kai in a costume for the photo ops.\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/petsmart-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: PetSmart Halloween Tricks for Treats Event
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261017T100000
 DTEND:20261017T170000
@@ -3101,6 +3118,21 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Pine Santa's Cocoa Corner
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Pet Photos with Santa at Petco
+DTSTART;VALUE=DATE:20261212
+UID:7c268a8aab4b7ae5@shumway-family-events
+DESCRIPTION:Select Petco stores offer free holiday photos with Santa on De
+ cember 12 for pets.\n\n⏰ PRO TIP: Confirm your local Petco is participat
+ ing and book a slot if offered\; Santa lines grow fast.\n\nSource: Hip2Sav
+ e\n🔗 https://hip2save.com/deals/petco-santa-pictures/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Pet Photos with Santa at Petco
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
