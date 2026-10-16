@@ -2555,6 +2555,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Gold Lightning McQueen Car at Macy's Stores
+DTSTART;VALUE=DATE:20261016
+UID:47cbb3f99f4ef7b3@shumway-family-events
+DESCRIPTION:From 4 to 6 PM local time today\, select Macy's stores give aw
+ ay free gold Lightning McQueen cars\, and a free Hot Wheels Halloween car 
+ comes with a $25 spend on select toys while supplies last.\n\n⏰ PRO TIP:
+  Giveaway is 4-6 PM today only and limited to select stores\; confirm your
+  local Macy's participates (e.g.\, Ross Park Mall).\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/macys-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Gold Lightning McQueen Car at Macy's Stores
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Sticker Sheet and Gigglescape Plush Event at Target
 DTSTART;VALUE=DATE:20261017
 UID:e4552cbb654efb6a@shumway-family-events
