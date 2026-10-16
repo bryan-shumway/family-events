@@ -2771,6 +2771,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free MrBeast Swarms Kids Workshop at Lowe's
+DTSTART;VALUE=DATE:20261024
+UID:f38fba5fd350bd95@shumway-family-events
+DESCRIPTION:Lowe's free weekend kids workshop where children build the MrB
+ east Swarms project\; register in advance.\n\n⏰ PRO TIP: Register in adv
+ ance\; Lowe's is a chain so pick the Cranberry/Pittsburgh-area store. Kai 
+ may be young for building\, but fine with help.\n👨‍👩‍👧‍👦
+  Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.co
+ m/deals/lowes-kids-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free MrBeast Swarms Kids Workshop at Lowe's
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261024T100000
 DTEND:20261024T170000
