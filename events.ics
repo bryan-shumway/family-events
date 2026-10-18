@@ -2900,6 +2900,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PetSmart Halloween Tricks for Treats Event + Tote Bag Giveaway
+DTSTART;VALUE=DATE:20261025
+UID:dd580de9aad29ead@shumway-family-events
+DESCRIPTION:Free PetSmart Halloween event (10 AM to 4 PM local) with pet c
+ ostume contest\, treats\, and coloring pages and stickers for families\; t
+ he Oct 17 date has passed\, so the next one is Oct 25.\n\n⏰ PRO TIP: Arr
+ ive right at 10 AM opening for thinner crowds\; check your local store\, s
+ ince participation varies.\n👨‍👩‍👧‍👦 Cousin Friendly (age
+ s 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/petsmart-even
+ t/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: PetSmart Halloween Tricks for Treats Event + Tote B
+ ag Giveaway
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261025T100000
 DTEND:20261025T170000
