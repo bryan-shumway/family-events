@@ -2751,6 +2751,27 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Great Pumpkin Festival
+DTSTART:20261023T173000
+UID:000d734e40f609a7@shumway-family-events
+DESCRIPTION:Free Halloween event for ages 1-8 (all ages welcome)\, held ra
+ in or shine from 5:30 to 7:30 p.m. Costumes are encouraged. It includes a 
+ pumpkin patch\, pumpkin decorating\, games\, crafts\, snacks\, a photoboot
+ h\, a story walk and a sensory-friendly room. A Halloween movie on the law
+ n ('The Addams Family'\, 2019) starts at 7 p.m.\n\n⏰ PRO TIP: Arrive at 
+ opening hour — parking and lines deteriorate quickly. Wear costumes. The
+ re's a sensory room if Kai needs a break.\n\nSource: Cranberry Township\n
+ 🔗 https://www.cranberrytownship.org/3289/Special-Events
+LOCATION:Cranberry Township Municipal Center and Armstrong Great Lawn\, 25
+ 25 Rochester Road\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Great Pumpkin Festival
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lowe's MrBeast Day: 2 Free MrBeast Swarms for MyLowe's Rewards Mem
  bers
 DTSTART;VALUE=DATE:20261024
