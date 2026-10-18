@@ -2715,6 +2715,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GetOut Membership: A Year of Free Local Attractions (Fall Sale)
+DTSTART;VALUE=DATE:20261018
+UID:a02ab06f8f75ab7e@shumway-family-events
+DESCRIPTION:Extra $5 off a GetOut membership (formerly GetOutPass) with co
+ de HIP2SAVE\, which gives unlimited admission to local attractions for a y
+ ear. The sale ends today.\n\n⏰ PRO TIP: Sale ends today. Confirm the att
+ raction list covers Pittsburgh-area kid venues before buying.\n👨‍👩
+ ‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https
+ ://hip2save.com/deals/get-out-pass/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: GetOut Membership: A Year of Free Local Attractions
+  (Fall Sale)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261018T100000
 DTEND:20261018T170000
