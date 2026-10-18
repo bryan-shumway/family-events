@@ -2772,6 +2772,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Movie on the Lawn: The Addams Family (2019)
+DTSTART:20261023T190000
+DTEND:20261023T203000
+UID:f94d7cc1ea82683d@shumway-family-events
+DESCRIPTION:Free Halloween movie on the lawn\, part of the Great Pumpkin F
+ estival. Starts at 7 p.m. The end time is an estimate based on the 87-minu
+ te runtime. Bring blankets or chairs.\n\n⏰ PRO TIP: The movie runs past 
+ Kai's usual evening\, so bring PJs and a blanket.\n\nSource: Cranberry Tow
+ nship\n🔗 https://www.cranberrytownship.org/3289/Special-Events
+LOCATION:Cranberry Township Municipal Center and Armstrong Great Lawn\, 25
+ 25 Rochester Road\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Movie on the Lawn: The Addams Family (2019)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lowe's MrBeast Day: 2 Free MrBeast Swarms for MyLowe's Rewards Mem
  bers
 DTSTART;VALUE=DATE:20261024
