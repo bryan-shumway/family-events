@@ -2782,6 +2782,20 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hello Kitty Kids Meals at Burger King
+DTSTART;VALUE=DATE:20261020
+UID:4c53740bd98213eb@shumway-family-events
+DESCRIPTION:Burger King offers a limited-time Hello Kitty & Friends Kids M
+ eal starting October 20\, with a mystery toy included.\n\nSource: Hip2Save
+ \n🔗 https://hip2save.com/deals/burger-king-kids-meals/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Hello Kitty Kids Meals at Burger King
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Halloween Trick-or-Treat
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261101
