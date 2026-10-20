@@ -2982,6 +2982,22 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Kids LEGO Workshop: Build a Ghost Street Model
+DTSTART;VALUE=DATE:20261025
+UID:7bc75ceb3ad7b62e@shumway-family-events
+DESCRIPTION:Free in-store LEGO building workshop for kids on October 25\, 
+ where children build a Ghost Street model.\n\n⏰ PRO TIP: Free in-store w
+ orkshops fill fast\, so arrive early and confirm the store location and si
+ gn-up first.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSou
+ rce: Hip2Save\n🔗 https://hip2save.com/deals/lego-free-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Kids LEGO Workshop: Build a Ghost Street Model
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261025T100000
 DTEND:20261025T170000
