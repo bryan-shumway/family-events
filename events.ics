@@ -3072,6 +3072,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chipotle Boorito: Wear a Costume on Halloween for a $6 Entrée
+DTSTART;VALUE=DATE:20261031
+UID:bf22f35c82c0bfa3@shumway-family-events
+DESCRIPTION:On Halloween starting at 3 PM local time\, guests in costume c
+ an scan their Chipotle Rewards barcode for a $6 entrée\, limit one per gu
+ est.\n\n⏰ PRO TIP: Go early after 3 PM start\; costumed kids are a fun p
+ hoto op and lines swell near dinner.\n👨‍👩‍👧‍👦 Cousin Fri
+ endly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/chi
+ potle-boorito/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Chipotle Boorito: Wear a Costume on Halloween for a
+  $6 Entrée
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261031T100000
 DTEND:20261031T170000
