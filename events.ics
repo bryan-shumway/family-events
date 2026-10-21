@@ -3054,6 +3054,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chipotle Boorito: $6 Entree for Costumed Guests on Halloween
+DTSTART;VALUE=DATE:20261031
+UID:48d7e8dcddc42cec@shumway-family-events
+DESCRIPTION:On October 31 starting at 3 PM local time\, guests wearing a c
+ ostume can scan their Chipotle Rewards barcode for a $6 entree\, limited t
+ o one per guest.\n\n⏰ PRO TIP: Costume required for the deal\; go early 
+ evening before the dinner rush with a toddler and infant.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/chipotle-boorito/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Chipotle Boorito: $6 Entree for Costumed Guests on 
+ Halloween
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261031T100000
 DTEND:20261031T170000
