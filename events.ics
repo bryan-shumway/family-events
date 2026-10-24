@@ -3060,6 +3060,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lowe's MrBeast Day: Free Swarms Kids Workshop for Rewards Members
+DTSTART;VALUE=DATE:20261024
+UID:28cb4eb5b08b711a@shumway-family-events
+DESCRIPTION:Lowe's offers free weekend kids workshops\, and Rewards Member
+ s can register now for the new MrBeast Swarms project\, so arrive early.\n
+ \n⏰ PRO TIP: Register ahead as a Rewards Member and arrive early\; spots
+  fill fast. Kai may need hands-on help with the project.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/lowes-kids-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Lowe's MrBeast Day: Free Swarms Kids Workshop for R
+ ewards Members
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261024T100000
 DTEND:20261024T170000
