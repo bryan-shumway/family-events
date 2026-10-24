@@ -2982,6 +2982,46 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Bowling at Bowlero\, AMF\, and Lucky Strike with $10 Arcade C
+ ard for Kids
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261116
+UID:13a34c3975dd2d3e@shumway-family-events
+DESCRIPTION:Bowlero\, AMF\, and Lucky Strike offer one free game of bowlin
+ g per guest during Family Fest\, and kids 16 and under get a free $10 arca
+ de card. RSVP required\, with event dates varying by location.\n\n⏰ PRO 
+ TIP: RSVP required and dates vary by location. Confirm the nearest Pittsbu
+ rgh-area venue and ask for bumpers and a ramp for Kai.\n👨‍👩‍👧
+ ‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2
+ save.com/deals/bowlero-bowling/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Bowling at Bowlero\, AMF\, and Lucky Strike wi
+ th $10 Arcade Card for Kids
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Kids Workshop at Lowe's (MrBeast Swarms Project) for Rewards 
+ Members
+DTSTART;VALUE=DATE:20261024
+UID:96831017efa121ed@shumway-family-events
+DESCRIPTION:Lowe's Rewards members can register for a free weekend kids wo
+ rkshop building the MrBeast Swarms project on October 24.\n\n⏰ PRO TIP: 
+ Register ahead as spots fill. Confirm the Cranberry Lowe's start time and 
+ whether a 3-year-old can join with a parent.\n👨‍👩‍👧‍👦 Co
+ usin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/d
+ eals/lowes-kids-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Kids Workshop at Lowe's (MrBeast Swarms Projec
+ t) for Rewards Members
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261024T100000
 DTEND:20261024T170000
