@@ -3022,6 +3022,44 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MrBeast Day at Lowe's: Free Kids Workshop for Rewards Members
+DTSTART;VALUE=DATE:20261024
+UID:f276ed26016759b3@shumway-family-events
+DESCRIPTION:Lowe's kids workshop features a free MrBeast Swarms project fo
+ r Rewards members\, and families should register ahead and arrive early.\n
+ \n⏰ PRO TIP: Register ahead and arrive early\; Kai may need hands-on hel
+ p with the project.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)
+ \n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/lowes-kids-workshop/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: MrBeast Day at Lowe's: Free Kids Workshop for Rewar
+ ds Members
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Bowling at Bowlero\, AMF & Lucky Strike + $10 Arcade Card for
+  Kids (Family Fest)
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261116
+UID:921131853fa02dae@shumway-family-events
+DESCRIPTION:RSVP for Family Fest at participating Bowlero\, AMF\, and Luck
+ y Strike locations on select dates through November 15 for one free game p
+ er guest\, and kids 16 and under get a free $10 arcade card.\n\n⏰ PRO TI
+ P: RSVP ahead and confirm a participating location near Cranberry or Pitts
+ burgh. Go early\, since lanes fill fast.\n👨‍👩‍👧‍👦 Cousin
+  Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals
+ /bowlero-bowling/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Bowling at Bowlero\, AMF & Lucky Strike + $10 
+ Arcade Card for Kids (Family Fest)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261024T100000
 DTEND:20261024T170000
