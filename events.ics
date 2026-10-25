@@ -3131,6 +3131,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free LEGO Ghost Street Model Building Event at Select Stores
+DTSTART;VALUE=DATE:20261025
+UID:5b495e14da255e0f@shumway-family-events
+DESCRIPTION:LEGO is hosting a free in-store building event today where kid
+ s can build a Ghost Street model.\n\n⏰ PRO TIP: Event is today and only 
+ at select stores\, so confirm the nearest participating location (e.g. Ros
+ s Park Mall) before heading out.\n👨‍👩‍👧‍👦 Cousin Friendl
+ y (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/lego-fr
+ ee-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Ghost Street Model Building Event at Sele
+ ct Stores
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261025T100000
 DTEND:20261025T170000
