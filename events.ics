@@ -3205,6 +3205,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Krispy Kreme Doughnut on Friday & Saturday
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+UID:2033058425d7d98a@shumway-family-events
+DESCRIPTION:Krispy Kreme is offering a free doughnut on Fri Oct 30 and Sat
+  Oct 31\; the $13 Halloween dozen was a today-only deal on Oct 29.\n\n⏰ 
+ PRO TIP: Free doughnut is a quick toddler treat\; go early before shops ru
+ n out or lines build.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-1
+ 2)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/krispy-kreme-coupo
+ n/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Krispy Kreme Doughnut on Friday & Saturday
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chipotle Boorito: $6 Entree for Costumed Guests on Halloween
 DTSTART;VALUE=DATE:20261031
 UID:48d7e8dcddc42cec@shumway-family-events
