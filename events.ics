@@ -3276,6 +3276,42 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kids Eat Free at Red Lobster This Weekend
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:aaf17ea4aa510c79@shumway-family-events
+DESCRIPTION:Red Lobster has kids-eat-free and seafood specials this weeken
+ d\, including endless shrimp\, with coupons available.\n\n⏰ PRO TIP: Hal
+ loween weekend rush: go early or off-peak and confirm your nearest locatio
+ n is open and honoring the offer.\n\nSource: Hip2Save\n🔗 https://hip2sa
+ ve.com/deals/red-lobster-specials/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Kids Eat Free at Red Lobster This Weekend
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Trick or Trade Pokémon Booster Pack at GameStop on October 3
+ 1
+DTSTART;VALUE=DATE:20261031
+UID:5daaf073793cb730@shumway-family-events
+DESCRIPTION:GameStop is hosting an all-day Halloween Pokéween event where
+  kids can play Pokémon games and trade cards\, with a free booster pack w
+ hile supplies last.\n\n⏰ PRO TIP: Booster packs are while supplies last\
+ , so go early and call your local store to confirm it's participating.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\
+ n🔗 https://hip2save.com/deals/gamestop-pokemon-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Trick or Trade Pokémon Booster Pack at GameSt
+ op on October 31
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild Hallowboo
 DTSTART:20261031T100000
 DTEND:20261031T170000
@@ -3375,6 +3411,24 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Holiday Light Drive-Through
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JCPenney Kids Zone: Free 3D Turkey Craft on November 14
+DTSTART;VALUE=DATE:20261114
+UID:42acaeb3cda95cac@shumway-family-events
+DESCRIPTION:Participating JCPenney stores host a free 3D turkey craft for 
+ kids from 11 AM to 12 PM local time on Saturday\, November 14\, while supp
+ lies last\, with no registration needed.\n\n⏰ PRO TIP: Supplies are limi
+ ted\, so arrive right at 11 AM and confirm your nearest JCPenney is partic
+ ipating.\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/free-jcpenne
+ y-kids-zone-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: JCPenney Kids Zone: Free 3D Turkey Craft on Novembe
+ r 14
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
