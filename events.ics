@@ -3433,6 +3433,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free 3D Turkey Craft at JCPenney Kids Zone
+DTSTART;VALUE=DATE:20261114
+UID:2ddb4ddfa7bcd803@shumway-family-events
+DESCRIPTION:On November 14 from 11 am to 12 pm\, kids can make a free 3D t
+ urkey craft at participating JCPenney stores while supplies last\, with no
+  registration needed.\n\n⏰ PRO TIP: Arrive right at 11:00 AM start\; sup
+ plies are limited and it's first-come. Confirm your nearest participating 
+ JCPenney (e.g.\, Cranberry area) beforehand.\n\nSource: Hip2Save\n🔗 htt
+ ps://hip2save.com/deals/free-jcpenney-kids-zone-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free 3D Turkey Craft at JCPenney Kids Zone
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pine Holiday Dazzle (Sat) - train rides\, Santa\, crafts
 DTSTART:20261114T160000
 DTEND:20261114T190000
