@@ -3380,6 +3380,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Top Toys Event with Free Holiday Bear Keychain
+DTSTART;VALUE=DATE:20261107
+UID:176494be7aed480a@shumway-family-events
+DESCRIPTION:Target hosts a Top Toys event from 12 to 4 pm at most stores w
+ ith LEGO and Mini Brands demos and a free Holiday Bear keychain for kids.\
+ n\n⏰ PRO TIP: Arrive at 12:00 PM for the free keychain before supplies r
+ un low\; Target Cranberry is closest.\n👨‍👩‍👧‍👦 Cousin Fr
+ iendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/ta
+ rget-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Top Toys Event with Free Holiday Bear Keycha
+ in
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261107T090000
 DTEND:20261107T120000
