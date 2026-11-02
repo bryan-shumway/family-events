@@ -3398,6 +3398,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Top Toys Event: Free Holiday Bear Keychain
+DTSTART;VALUE=DATE:20261107
+UID:167f72353e3476d6@shumway-family-events
+DESCRIPTION:Target stores host a Top Toys event from 12 to 4 pm with toy d
+ emos\, including a LEGO Christmas Stocking\, and a free Holiday Bear keych
+ ain.\n\n⏰ PRO TIP: Event runs 12-4 pm. Go early for the free keychain an
+ d shorter toy demo lines\, and bring Kai's nap plan.\n👨‍👩‍👧
+ ‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2
+ save.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Top Toys Event: Free Holiday Bear Keychain
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261107T090000
 DTEND:20261107T120000
