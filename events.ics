@@ -3539,6 +3539,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Hogwarts Express Snow Globes at JCPenney
+DTSTART;VALUE=DATE:20261127
+UID:57e706473e11fe81@shumway-family-events
+DESCRIPTION:Select JCPenney stores have a Hogwarts Express display and int
+ eractive Harry Potter activities\, with free snow globes tied to a Black F
+ riday event whose exact date the source had not yet announced.\n\n⏰ PRO 
+ TIP: Arrive at opening hour — parking and lines deteriorate quickly.\n
+ 👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\
+ n🔗 https://hip2save.com/deals/jcpenney-harry-potter/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Hogwarts Express Snow Globes at JCPenney
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Western PA Model Railroad Holiday Show
 DTSTART:20261128T100000
 DTEND:20261128T170000
