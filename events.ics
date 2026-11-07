@@ -3677,6 +3677,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:How to Watch A Charlie Brown Christmas for Free on December 12 and
+  13
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+UID:37ebc9886498dec1@shumway-family-events
+DESCRIPTION:Apple is letting PBS and PBS Kids air A Charlie Brown Thanksgi
+ ving and A Charlie Brown Christmas on live TV for free on December 12 and 
+ 13.\n\n⏰ PRO TIP: Free on PBS and PBS Kids\; easy at-home family viewing
+  for Kai.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource
+ : Hip2Save\n🔗 https://hip2save.com/tips/charlie-brown-christmas/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: How to Watch A Charlie Brown Christmas for Free on 
+ December 12 and 13
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Western PA Model Railroad Holiday Show
 DTSTART:20261212T100000
 DTEND:20261212T170000
