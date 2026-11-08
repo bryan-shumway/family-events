@@ -3556,6 +3556,27 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Santa's First Stop
+DTSTART:20261120T180000
+UID:56c92de2a93fec09@shumway-family-events
+DESCRIPTION:Free holiday event with live reindeer\, games and crafts\, a L
+ ego train display\, Toys for Tots drive\, caroling\, a seasonal shopping a
+ rea\, food vendors\, and the lighting of the Township tree. Santa and Mrs.
+  Claus arrive at 7 p.m.\n\n⏰ PRO TIP: Arrive early — parking and lines
+  deteriorate quickly. Reindeer and crafts come first\; Santa arrives at 7 
+ PM\, which is late for an infant.\n👨‍👩‍👧‍👦 Cousin Friend
+ ly (ages 8-12)\n\nSource: Cranberry Township\n🔗 https://www.cranberryto
+ wnship.org/3289/Special-Events
+LOCATION:Cranberry Township Municipal Center and Armstrong Great Lawn\, 25
+ 25 Rochester Road\, Cranberry Township\, PA
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Santa's First Stop
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Hogwarts Express Snow Globes at JCPenney
 DTSTART;VALUE=DATE:20261127
 UID:57e706473e11fe81@shumway-family-events
