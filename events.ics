@@ -3467,6 +3467,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free LEGO Reindeer Build
+DTSTART;VALUE=DATE:20261113
+UID:561e258f17c47d35@shumway-family-events
+DESCRIPTION:An in-store LEGO event on November 13 lets kids build a free L
+ EGO reindeer.\n\n⏰ PRO TIP: Go right at store opening\; free build kits 
+ are usually limited and run out. Confirm the nearest LEGO store (Ross Park
+  Mall) is participating.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 
+ 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/lego-free-event
+ /
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Reindeer Build
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JCPenney Kids Zone: Free 3D Turkey Craft on November 14
 DTSTART;VALUE=DATE:20261114
 UID:42acaeb3cda95cac@shumway-family-events
