@@ -3534,6 +3534,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FREE LEGO Santa's Sleigh Build at Macy's
+DTSTART;VALUE=DATE:20261114
+UID:a2edb3a6fdaf40b5@shumway-family-events
+DESCRIPTION:Kids can build an exclusive LEGO Santa's Sleigh and take it ho
+ me for free at select Macy's stores from 12 to 2 PM on Saturday\, November
+  14\, with no purchase or registration required.\n\n⏰ PRO TIP: Arrive ri
+ ght at 12:00 PM — free builds can run out of kits. Confirm your Macy's (
+ Ross Park Mall) participates.\n👨‍👩‍👧‍👦 Cousin Friendly (
+ ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/macys-stor
+ e-event/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: FREE LEGO Santa's Sleigh Build at Macy's
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pine Holiday Dazzle (Sat) - train rides\, Santa\, crafts
 DTSTART:20261114T160000
 DTEND:20261114T190000
