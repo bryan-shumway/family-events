@@ -3660,6 +3660,23 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Light Up Night: KidsPlay & Selfie Garden
+DTSTART:20261121T110000
+DTEND:20261121T200000
+UID:0d3a9c5f0084cefc@shumway-family-events
+DESCRIPTION:Ornament making\, giant games\, storytime and free books. Sant
+ a photos ($10 suggested donation). Tree lightings 5-8 PM. Go at opening: p
+ arking and lines get worse fast.\n\n⏰ PRO TIP: Arrive at 11 AM opening\n
+ \nSource: Duet routine 3.8 (Kidsburgh)
+LOCATION:Heinz Hall Courtyard\, 600 Penn Ave\, Pittsburgh\, PA 15222
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Light Up Night: KidsPlay & Selfie Garden
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Hogwarts Express Snow Globes at JCPenney
 DTSTART;VALUE=DATE:20261127
 UID:57e706473e11fe81@shumway-family-events
