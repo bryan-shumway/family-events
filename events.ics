@@ -3844,6 +3844,28 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gingerbread House Display opening day
+DTSTART:20261120T120000
+DTEND:20261120T180000
+UID:f04f5fbf1830162b@shumway-family-events
+DESCRIPTION:Ribbon cutting and opening 12-6 PM. Free display of hundreds o
+ f gingerbread houses (pro\, family and neighborhood entries)\, Nov 20 - Ja
+ n 8. Hours Sun-Mon 11-6\, Tue-Sat 11-8\; Light Up Night (Sat 11/21) 11-8. 
+ Light security screening at entry\, no public restrooms.\n\n⏰ PRO TIP: G
+ o early in the day for fewer crowds. The description text looks mismatched
+ \, so check the organizer page for hours.\n👨‍👩‍👧‍👦 Cousi
+ n Friendly (ages 8-12)\n\nSource: Downtown Pittsburgh\n🔗 https://getinv
+ olved.pittsburghpa.gov/gingerbread-house-competition
+LOCATION:City-County Building\, 414 Grant St\, Pittsburgh\, PA 15219
+TRANSP:TRANSPARENT
+URL:https://getinvolved.pittsburghpa.gov/gingerbread-house-competition
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Gingerbread House Display opening day
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Santa's First Stop
 DTSTART:20261120T180000
 UID:56c92de2a93fec09@shumway-family-events
