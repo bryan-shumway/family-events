@@ -3868,6 +3868,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Santa's First Stop
 DTSTART:20261120T180000
+DTEND:20261120T200000
 UID:56c92de2a93fec09@shumway-family-events
 DESCRIPTION:Free holiday event with live reindeer\, games and crafts\, a L
  ego train display\, Toys for Tots drive\, caroling\, a seasonal shopping a
