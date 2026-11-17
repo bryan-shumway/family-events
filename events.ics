@@ -3889,6 +3889,26 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Target Store Events: Free LEGO Holiday Event\, Gift Card and Photo
+  Ornament Giveaways
+DTSTART;VALUE=DATE:20261121
+UID:27a56214fb2cb2fb@shumway-family-events
+DESCRIPTION:Target's LEGO Holiday Event runs 12–4 PM on November 21 at m
+ ost stores with free LEGO goodies\, plus gift card and photo ornament give
+ aways on following weekends.\n\n⏰ PRO TIP: Arrive right at noon for the 
+ best pick of free LEGO goodies\; they can run out.\n👨‍👩‍👧‍
+ 👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2sav
+ e.com/deals/target-store-event/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/target-store-event/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Target Store Events: Free LEGO Holiday Event\, Gift
+  Card and Photo Ornament Giveaways
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Light Up Night: KidsPlay & Selfie Garden
 DTSTART:20261121T110000
 DTEND:20261121T200000
@@ -3941,6 +3961,26 @@ URL:https://wpmrm.org
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Western PA Model Railroad Holiday Show
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GetOut Pass Black Friday Sale: Family Attraction Membership Discou
+ nt
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+UID:1658946065b86a23@shumway-family-events
+DESCRIPTION:Through November 29\, GetOut membership is $10 off\, and the H
+ IP2SAVE code takes an extra $5 off to get into local family attractions.\n
+ \n⏰ PRO TIP: Sale ends Nov 29\; confirm the attractions are near Pittsbu
+ rgh before buying.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\
+ n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/get-out-pass/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/get-out-pass/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: GetOut Pass Black Friday Sale: Family Attraction Me
+ mbership Discount
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
