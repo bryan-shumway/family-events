@@ -4115,6 +4115,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free LEGO Snowman Ornament Craft at JCPenney
+DTSTART;VALUE=DATE:20261212
+UID:dd0bf99b0de188df@shumway-family-events
+DESCRIPTION:Kids can make a free LEGO snowman ornament at participating JC
+ Penney stores on December 12 from 11am to 12pm\, while supplies last\, wit
+ h no registration needed.\n\n⏰ PRO TIP: Arrive at opening\; free craft s
+ upplies run out fast. Confirm your nearest JCPenney (Cranberry/Ross Park) 
+ is participating.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n
+ \nSource: Hip2Save\n🔗 https://hip2save.com/deals/free-jcpenney-kids-zon
+ e-event/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/free-jcpenney-kids-zone-event/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free LEGO Snowman Ornament Craft at JCPenney
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Western PA Model Railroad Holiday Show
 DTSTART:20261212T100000
 DTEND:20261212T170000
