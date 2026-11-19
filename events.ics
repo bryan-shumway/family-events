@@ -3946,6 +3946,25 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Macy's LEGO Sale: Bluey Family Set $41.99 Shipped
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+UID:692feaa3cf9ad069@shumway-family-events
+DESCRIPTION:Macy's has up to 40% off select LEGO sets through November 28 
+ or while supplies last\, including the Bluey Brick-Built Bluey Family set 
+ for $41.99.\n\n⏰ PRO TIP: Sale ends Nov 28 or while supplies last\; orde
+ r early for shipped delivery.\n👨‍👩‍👧‍👦 Cousin Friendly (
+ ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/macys-lego
+ /
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/macys-lego/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Macy's LEGO Sale: Bluey Family Set $41.99 Shipped
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Western PA Model Railroad Holiday Show
 DTSTART:20261128T100000
 DTEND:20261128T170000
@@ -4000,6 +4019,25 @@ URL:https://wpmrm.org
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Western PA Model Railroad Holiday Show
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Michaels Kids Club Holiday Crafting Events
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270101
+UID:8e1ed231d9fefc88@shumway-family-events
+DESCRIPTION:Free Michaels Kids Club holiday events in December include orn
+ ament making\, holiday cards\, and cookie decorating\, with supplies inclu
+ ded and no registration required.\n\n⏰ PRO TIP: Free walk-in craft sessi
+ ons fill fast\; go right at start time.\n👨‍👩‍👧‍👦 Cousin 
+ Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/
+ michaels-kids-classes/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/michaels-kids-classes/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: FREE Michaels Kids Club Holiday Crafting Events
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
