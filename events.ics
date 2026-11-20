@@ -4042,6 +4042,24 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burger King Peanuts Holiday Meal (Includes Snoopy Beanie)
+DTSTART;VALUE=DATE:20261201
+UID:22cacbbca78f3f89@shumway-family-events
+DESCRIPTION:Burger King's Peanuts holiday meal bundle drops December 1\, w
+ ith app coupons for free and discounted menu items.\n\n⏰ PRO TIP: Redeem
+  app coupons at drive-thru to skip the line with the kids.\n👨‍👩‍
+ 👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n🔗 https://
+ hip2save.com/deals/burger-king-coupons/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/burger-king-coupons/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Burger King Peanuts Holiday Meal (Includes Snoopy B
+ eanie)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Depot Kids Workshop
 DTSTART:20261205T090000
 DTEND:20261205T120000
