@@ -4023,6 +4023,31 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dr. Seuss' How the Grinch Stole Christmas! The Musical
+DTSTART:20261129T193000
+UID:2dc97b06c1a1d110@shumway-family-events
+DESCRIPTION:Dr. Seuss' How The Grinch Stole Christmas! The Musical is the 
+ record-setting Broadway holiday sensation which features the hit songs “
+ You’re A Mean One Mr. Grinch” and “Welcome Christmas” from the ori
+ ginal animated special. Max the Dog narrates as the mean and scheming Grin
+ ch\, whose heart is “two sizes too small\,” decides to steal Christmas
+  away from the Holiday loving Whos. Magnificent sets and c\n\n⏰ PRO TIP:
+  Choose a matinee\, and bring ear protection for the toddler.\n👨‍👩
+ ‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Downtown Pittsburgh\
+ n🔗 https://trustarts.org/production/105581/dr-seuss-how-the-grinch-stol
+ e-christmas-the-musical?group_sales=true
+LOCATION:Liberty Magic\, 805 Liberty Ave\, Pittsburgh\, PA 15222\, USA
+TRANSP:TRANSPARENT
+URL:https://trustarts.org/production/105581/dr-seuss-how-the-grinch-stole-
+ christmas-the-musical?group_sales=true
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Dr. Seuss' How the Grinch Stole Christmas! The Musi
+ cal
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FREE Michaels Kids Club Holiday Crafting Events
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20270101
@@ -4247,6 +4272,74 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Skate with Santa
+DTSTART:20261213T133000
+UID:697a2d91165e4f76@shumway-family-events
+DESCRIPTION:Enjoy a special opportunity to take to the ice with Santa Clau
+ s just days before Christmas! Bring along the kids and the camera to captu
+ re these holiday memories. This event includes great music and the chance 
+ to skate outdoors in beautiful Schenley Park! Pricing Information: Adults:
+  $6.00 Seniors: $5.00 Veterans with ID: $5.00 Youth (17 & Under): $3.00 Sk
+ ate Rentals: $3.00\n\n⏰ PRO TIP: Dress warmly and bring a stroller blank
+ et for Callie. Go early for shorter lines.\n👨‍👩‍👧‍👦 Cous
+ in Friendly (ages 8-12)\n\nSource: Downtown Pittsburgh\n🔗 https://www.p
+ ittsburghpa.gov/recreation-events/park-facilities/schenley-skating-rink/sp
+ ecial-events-theme-nights/skate-with-santa
+LOCATION:Allegheny Commons Park\, Pittsburgh\, PA 15212\, USA
+TRANSP:TRANSPARENT
+URL:https://www.pittsburghpa.gov/recreation-events/park-facilities/schenle
+ y-skating-rink/special-events-theme-nights/skate-with-santa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Skate with Santa
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skate with Santa
+DTSTART:20261213T133000
+UID:364636667a1590e5@shumway-family-events
+DESCRIPTION:Enjoy a special opportunity to take to the ice with Santa Clau
+ s just days before Christmas! Bring along the kids and the camera to captu
+ re these holiday memories. This event includes great music and the chance 
+ to skate outdoors in beautiful Schenley Park! Pricing Information: Adults:
+  $6.00 Seniors: $5.00 Veterans with ID: $5.00 Youth (17 & Under): $3.00 Sk
+ ate Rentals: $3.00\n\n⏰ PRO TIP: Dress Kai and Callie in warm layers\; s
+ kate rentals are only $3.\n👨‍👩‍👧‍👦 Cousin Friendly (ages
+  8-12)\n\nSource: Downtown Pittsburgh\n🔗 https://www.pittsburghpa.gov/r
+ ecreation-events/park-facilities/schenley-skating-rink/special-events-them
+ e-nights/skate-with-santa
+LOCATION:Schenley Park Ice Skating Rink\, 10341 Overlook Dr near\, Pittsbu
+ rgh\, PA 15213\, USA
+TRANSP:TRANSPARENT
+URL:https://www.pittsburghpa.gov/recreation-events/park-facilities/schenle
+ y-skating-rink/special-events-theme-nights/skate-with-santa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Skate with Santa
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breakfast with Santa
+DTSTART;VALUE=DATE:20261219
+UID:5bd098d898802e21@shumway-family-events
+DESCRIPTION:Join us on Saturday\, December 19\, at 9 a.m. in the private\,
+  beautiful\, historic Music Hall Foyer\, where you’ll enjoy a breakfast 
+ buffet\, and a photo opportunity with the big guy!\n\n⏰ PRO TIP: Breakfa
+ st buffet and Santa photo\, so book early. Morning timing suits both kids.
+ \n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Carnegi
+ e Museum of Natural History\n🔗 https://carnegiemnh.org/event/breakfast-
+ with-santa/
+TRANSP:TRANSPARENT
+URL:https://carnegiemnh.org/event/breakfast-with-santa/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Breakfast with Santa
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Western PA Model Railroad Holiday Show
 DTSTART:20261219T100000
 DTEND:20261219T170000
@@ -4266,6 +4359,26 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Season's Greetings Saturdays: The Grinch and Santa
+DTSTART:20261219T100000
+UID:f77a2f46b1d79a11@shumway-family-events
+DESCRIPTION:Holiday Saturday with the Grinch and Santa\, photo ops\, and f
+ estive activities. Included with General Admission.\n\n⏰ PRO TIP: Schedu
+ le for 10:00 AM opening — animals are most active and crowds are thin. G
+ rinch and Santa day\, so expect bigger crowds.\n👨‍👩‍👧‍👦 
+ Cousin Friendly (ages 8-12)\n\nSource: National Aviary\n🔗 https://www.a
+ viary.org/national-aviary-events/seasonal-events-at-the-national-aviary/
+LOCATION:National Aviary
+TRANSP:TRANSPARENT
+URL:https://www.aviary.org/national-aviary-events/seasonal-events-at-the-n
+ ational-aviary/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Season's Greetings Saturdays: The Grinch and Santa
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Western PA Model Railroad Holiday Show
 DTSTART:20261220T100000
 DTEND:20261220T170000
@@ -4281,6 +4394,29 @@ URL:https://wpmrm.org
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Coming up: Western PA Model Railroad Holiday Show
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yuletide! A Holiday Spectacular
+DTSTART:20261220T193000
+UID:fe06a56f189632ee@shumway-family-events
+DESCRIPTION:Nostalgia and tradition collide in Yuletide! A Holiday Spectac
+ ular\, a new musical that takes audiences on a journey through time and ce
+ lebrates the holiday spirit. This family-friendly production comes to life
+  through heartfelt humor\, music\, dance\, and spectacle\, and reminds us 
+ to be the light for our world.\n\n⏰ PRO TIP: Choose a matinee and sit ne
+ ar an aisle for easy exits with the baby.\n👨‍👩‍👧‍👦 Cousi
+ n Friendly (ages 8-12)\n\nSource: Downtown Pittsburgh\n🔗 https://playho
+ use.culturaldistrict.org/production/109274/yuletide-a-holiday-spectacular
+LOCATION:PPU Pittsburgh Playhouse\, 350 Forbes Ave\, Pittsburgh\, PA 15222
+ \, USA
+TRANSP:TRANSPARENT
+URL:https://playhouse.culturaldistrict.org/production/109274/yuletide-a-ho
+ liday-spectacular
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Yuletide! A Holiday Spectacular
 TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
