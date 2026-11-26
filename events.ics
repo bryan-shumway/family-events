@@ -3946,6 +3946,28 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Michaels Countdown to Craftsmas Advent Calendar on Black Frid
+ ay
+DTSTART;VALUE=DATE:20261127
+UID:a477ef6867cb05c7@shumway-family-events
+DESCRIPTION:On Black Friday\, Michaels in-store is giving away free Countd
+ own to Craftsmas Advent Calendars at checkout with no purchase necessary\,
+  featuring 25 days of holiday crafts and ideas.\n\n⏰ PRO TIP: Free in-st
+ ore at checkout with no purchase\; go early on Black Friday in case suppli
+ es run out. Pick crafts suited to a 3-year-old and supervise small pieces 
+ around the baby.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\
+ nSource: Hip2Save\n🔗 https://hip2save.com/deals/michaels-advent-calenda
+ r/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/michaels-advent-calendar/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free Michaels Countdown to Craftsmas Advent Calenda
+ r on Black Friday
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Macy's LEGO Sale: Bluey Family Set $41.99 Shipped
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
