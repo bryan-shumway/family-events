@@ -4164,6 +4164,27 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barnes & Noble Black Friday Sale: 50% Off Hardcovers + Free $10 eG
+ ift Card Per $100 Gift Card Spend
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+UID:8fbb10ebe3f90982@shumway-family-events
+DESCRIPTION:Barnes & Noble offers up to 50% off bestselling novels and chi
+ ldren's books\, plus a free $10 eGift card for every $100 in gift card pur
+ chases through December 11.\n\n⏰ PRO TIP: Check that the discount covers
+  board books and picture books for Kai and Callie. Sale ends Dec 11.\n👨
+ ‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\n\nSource: Hip2Save\n
+ 🔗 https://hip2save.com/deals/barnes-noble-black-friday-sale/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/barnes-noble-black-friday-sale/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Barnes & Noble Black Friday Sale: 50% Off Hardcover
+ s + Free $10 eGift Card Per $100 Gift Card Spend
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pine Santa's Cocoa Corner
 DTSTART:20261211T173000
 DTEND:20261211T200000
