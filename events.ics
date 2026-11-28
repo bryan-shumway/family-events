@@ -3987,6 +3987,26 @@ TRIGGER:-P6DT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free IKEA Lingonberry Lane Winter Holidays Event + Bag Charm Givea
+ way
+DTSTART;VALUE=DATE:20261128
+UID:8cd75bcf408ddd97@shumway-family-events
+DESCRIPTION:Free in-store holiday event today with cookie decorating\, cra
+ fts\, and an IKEA bag charm giveaway\, plus Black Friday deals through Nov
+ ember 30.\n\n⏰ PRO TIP: Nearest IKEA is in Robinson Township. Confirm ev
+ ent hours and arrive early\, as giveaways may run out and Black Friday wee
+ kend gets crowded.\n👨‍👩‍👧‍👦 Cousin Friendly (ages 8-12)\
+ n\nSource: Hip2Save\n🔗 https://hip2save.com/deals/ikea-holiday-event/
+TRANSP:TRANSPARENT
+URL:https://hip2save.com/deals/ikea-holiday-event/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coming up: Free IKEA Lingonberry Lane Winter Holidays Event + 
+ Bag Charm Giveaway
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Western PA Model Railroad Holiday Show
 DTSTART:20261128T100000
 DTEND:20261128T170000
